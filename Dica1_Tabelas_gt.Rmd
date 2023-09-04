@@ -1,0 +1,136 @@
+---
+title: "Dica1 Tabelas com pacote gt"
+author: "Jennifer Lopes"
+date: "2023-09-04"
+output: html_document
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Pacote gt
+
+#### Com o pacote gt, qualquer pessoa pode fazer tabelas de aparência maravilhosa usando a linguagem de programação R.
+
+#### Com gt: podemos construir uma grande variedade de tabelas úteis.
+
+#### Na figura abaixo são mostrados os elementos da tabela que podem ser alterados e trabalhados com esse pacote.
+
+![Partes da tabela com pacote gt.](https://gt.rstudio.com/reference/figures/gt_parts_of_a_table.svg)
+
+#### Vamos utilizar o banco de dados palmerpenguins como exemplo. Então você precisará baixar os pacotes `gt` e `palmerpenguins`, ok?
+
+![**Pacote palmerpenguins.**](palmer.png){width="250"}
+
+```{r message=FALSE}
+library(gt)
+library(palmerpenguins)
+library(tidyverse)
+
+```
+
+#### Primeiro vamos iniciar com uma tabela básica, visualizando uma parte do banco de dados. Vejam como ela renderiza, a extensão e também as linhas, colunas e etc...
+
+```{r}
+penguins %>% 
+  head(10) 
+```
+
+#### Agora vamos acrescentar **título** e **subtítulo** a nossa tabela.
+
+```{r}
+penguins %>%
+  dplyr::sample_frac(.05) %>%
+  gt::gt() %>% 
+  gt::tab_header(
+    title =gt::md("Caracteristícas fenotípicas de pinguins"),
+    subtitle = gt::md("Avaliações realizadas em três anos, e três ilhas do arquipélago Palmer")) %>% 
+    opt_align_table_header(align ="left")
+```
+
+#### Podemos resumir dados utilizando as funções do nosso querido pacote `tidyverse`.
+
+```{r}
+penguins %>%
+  dplyr::group_by(species) %>% 
+  dplyr::summarise_at(.vars = c("bill_length_mm",
+                                "bill_depth_mm",
+                                "flipper_length_mm",
+                                "body_mass_g"),.funs = ~mean(., na.rm = TRUE)) %>% 
+  gt::gt()
+```
+
+#### Vamos também salvar a análise em um novo objeto (tabela) para seguirmos formatando nossas tabelas! vejamos:
+
+```{r}
+tabela <- penguins %>%
+  dplyr::group_by(species) %>% 
+  dplyr::summarise_at(.vars = c("bill_length_mm",
+                                "bill_depth_mm",
+                                "flipper_length_mm",
+                                "body_mass_g"),.funs = ~mean(., na.rm = TRUE)) %>% 
+  gt::gt()
+```
+
+#### Mudando o nome das variáveis:
+
+```{r}
+(tabela <- tabela %>% 
+  gt::cols_label(
+    bill_length_mm = gt::html("Comprimento<br>médio do<br>bico (<em>mm</em>)"),
+    bill_depth_mm = gt::html("Profundidade<br>média do<br>bico (<em>mm</em>)"),
+    flipper_length_mm = gt::html("Comprimento<br>médio da<br> nadadeira (<em>mm</em>)"),
+    body_mass_g = gt::html("Média da<br>massa<br>corporal (<em>g</em>)"),
+    
+  ) %>% 
+  gt::tab_header(
+    title =gt::md("Caracteristícas fenotípicas de pinguins"),
+    subtitle = gt::md("Avaliações realizadas em três anos, e três ilhas do arquipélago Palmer")) %>% 
+    gt::opt_align_table_header(align = "left"))
+```
+
+#### Outra função interessante é a redução no número de digitos.
+
+```{r}
+(tabela <- tabela %>% 
+  gt::fmt_number(columns = gt::everything()))
+```
+
+#### Podemos alterar também a largura, vejam:
+
+```{r}
+(tabela <- tabela %>% 
+   gt::cols_width (
+     bill_length_mm ~ gt::px(130),
+      bill_depth_mm ~ gt::px(130),
+      flipper_length_mm ~ gt::px(150),
+      body_mass_g ~ gt::px(120)))
+   
+```
+
+#### O pacote `gt` permite que possamos colocar notas de rodapé, adoro!
+
+```{r}
+(tabela <- tabela %>% 
+   gt::tab_source_note(source_note = "Fonte: Banco de dados do pacote palmerpenguins"
+   ))
+```
+
+#### Sempre que queremos destacar um resultado importante, podemos utilizar:
+
+```{r warning=FALSE}
+tabela  %>%
+  gt::data_color(columns = bill_length_mm, 
+     colors = scales::col_numeric(
+       palette=c("blue", "red", "orange"),
+       domain= NULL))
+```
+
+#### 
+
+#### Pessoal estas foram algumas dicas utilizando o pacote gt(), consulte a documentação do pacote, tem muito mais funções, acesse:
+
+[Pacote {gt}](https://gt.rstudio.com/)
+
+Me contem se vocês já conheciam este pacote?
