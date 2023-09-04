@@ -2,4 +2,4 @@
 Neste repositório, compartilharei discas utilizando o software R. Espero que vocês gostem. 
 Tem o código aqui no github e o link do RPubs para vocês.
 
-Dica 1: https://rpubs.com/jenniferlopes/1077776
+Dica 1- Disponível: https://rpubs.com/jenniferlopes/1077776
