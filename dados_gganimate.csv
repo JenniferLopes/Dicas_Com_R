@@ -1,0 +1,595 @@
+ID ano genero idade idade_dec raca educacao estado_civil renda casa trabalho peso altura imc saude_genero horas_sono atividade_fisica atividade_diaria TVHrsDay fumante
+62172 2011_12 female 43 " 40-49" Black "High School" NeverMarried 20000-24999 Rent NotWorking 98.6 172 33.3 Good 8 No 2 More_4_hr Yes
+62199 2011_12 male 57 " 50-59" White "College Grad" LivePartner "more 99999" Rent Working 96.9 186 28 Vgood 8 Yes 2 1_hr No
+62199 2011_12 male 57 " 50-59" White "College Grad" LivePartner "more 99999" Rent Working 96.9 186 28 Vgood 8 Yes 7 1_hr No
+62237 2011_12 female 58 " 50-59" White "College Grad" Married 35000-44999 Own NotWorking 99.4 157.8 39.9 Good 6 No 3 4_hr No
+62237 2011_12 female 58 " 50-59" White "College Grad" Married 35000-44999 Own NotWorking 99.4 157.8 39.9 Good 6 No 5 4_hr No
+62259 2011_12 male 61 " 60-69" Black "Some College" Divorced 15000-19999 Rent NotWorking 135.5 180.2 41.7 Good 5 Yes 1 4_hr No
+62277 2011_12 female 55 " 50-59" White "Some College" Divorced 55000-64999 Own Working 67.5 164.2 25 Good 4 Yes 3 More_4_hr No
+62297 2011_12 male 43 " 40-49" Black "Some College" Married 65000-74999 Own Working 87.8 167.9 31.1 Vgood 7 Yes 3 3_hr No
+62350 2011_12 female 43 " 40-49" White "High School" Divorced 35000-44999 Rent Working 58.7 162.1 22.3 Excellent 6 Yes 2 2_hr Yes
+62357 2011_12 male 36 " 30-39" White "Some College" Married "more 99999" Own Working 91.6 189.3 25.6 Vgood 8 Yes 5 0_to_1_hr No
+62363 2011_12 female 44 " 40-49" White "9 - 11th Grade" Divorced 25000-34999 Own NotWorking 64.2 157.6 25.8 Vgood 2 No 4 More_4_hr Yes
+62399 2011_12 female 53 " 50-59" Mexican "8th Grade" Married 20000-24999 Own NotWorking 74.6 155.8 30.7 Good 8 Yes 6 More_4_hr No
+62413 2011_12 male 65 " 60-69" White "Some College" LivePartner 20000-24999 Own NotWorking 109 165.1 40 Fair 9 No 2 More_4_hr No
+62413 2011_12 male 65 " 60-69" White "Some College" LivePartner 20000-24999 Own NotWorking 109 165.1 40 Fair 9 No 1 More_4_hr No
+62439 2011_12 male 75 " 70+" White "Some College" Married "more 99999" Own NotWorking 103 176.8 33 Good 8 Yes 5 More_4_hr No
+62460 2011_12 male 41 " 40-49" White "College Grad" Married "more 99999" Own Working 77.5 188.1 21.9 Good 6 Yes 3 1_hr No
+62530 2011_12 female 51 " 50-59" White "9 - 11th Grade" Divorced 20000-24999 Rent Working 88.1 155.8 36.3 Good 7 No 5 More_4_hr Yes
+62546 2011_12 male 64 " 60-69" Mexican "Some College" Widowed 25000-34999 Rent Working 118.2 179.9 36.5 Good 7 Yes 5 More_4_hr Yes
+62552 2011_12 female 41 " 40-49" White "College Grad" Married "more 99999" Own Working 58.2 160.8 22.5 Vgood 8 Yes 7 2_hr Yes
+62552 2011_12 female 41 " 40-49" White "College Grad" Married "more 99999" Own Working 58.2 160.8 22.5 Vgood 8 Yes 7 2_hr Yes
+62588 2011_12 male 21 " 20-29" White "Some College" NeverMarried 10000-14999 Rent Working 73 187.6 20.7 Good 6 Yes 1 1_hr Yes
+62588 2011_12 male 21 " 20-29" White "Some College" NeverMarried 10000-14999 Rent Working 73 187.6 20.7 Good 6 Yes 2 1_hr Yes
+62604 2011_12 female 73 " 70+" White "High School" NeverMarried 15000-19999 Own NotWorking 49 148.6 22.2 Good 7 No 2 4_hr No
+62604 2011_12 female 73 " 70+" White "High School" NeverMarried 15000-19999 Own NotWorking 49 148.6 22.2 Good 7 No 5 4_hr No
+62644 2011_12 male 61 " 60-69" Black "Some College" Widowed 20000-24999 Own NotWorking 119.7 168.8 42 Poor 6 No 7 3_hr No
+62644 2011_12 male 61 " 60-69" Black "Some College" Widowed 20000-24999 Own NotWorking 119.7 168.8 42 Poor 6 No 3 3_hr No
+62651 2011_12 male 55 " 50-59" White "High School" Divorced 25000-34999 Rent Working 114.4 170.2 39.5 Good 8 Yes 1 2_hr No
+62661 2011_12 male 35 " 30-39" White "Some College" NeverMarried 75000-99999 Rent Working 74.2 187.3 21.2 Good 6 Yes 1 0_to_1_hr Yes
+62664 2011_12 male 64 " 60-69" White "College Grad" Married 45000-54999 Own Working 106.1 164.2 39.4 Good 8 Yes 5 3_hr No
+62739 2011_12 male 74 " 70+" White "College Grad" Married 45000-54999 Own Looking 79.1 173.1 26.4 Good 7 No 3 3_hr No
+62757 2011_12 male 54 " 50-59" White "High School" Divorced 65000-74999 Rent Working 109 173.8 36.1 Good 7 Yes 3 3_hr No
+62763 2011_12 male 29 " 20-29" White "Some College" Married "more 99999" Rent Working 98.4 176 31.8 Good 6 Yes 3 3_hr Yes
+62772 2011_12 female 46 " 40-49" Mexican "College Grad" NeverMarried "more 99999" Rent NotWorking 81.7 146.5 38.1 Vgood 9 No 5 3_hr No
+62793 2011_12 male 72 " 70+" White "High School" Married "more 99999" Own Working 87.6 171.1 29.9 Good 7 No 2 4_hr No
+62798 2011_12 male 50 " 50-59" Hispanic "9 - 11th Grade" Married 25000-34999 Own Working 72.7 168 25.8 Vgood 8 Yes 2 0_to_1_hr Yes
+62803 2011_12 female 34 " 30-39" White "Some College" Married 75000-99999 Own Working 60.8 163.9 22.6 Vgood 7 No 4 1_hr No
+62803 2011_12 female 34 " 30-39" White "Some College" Married 75000-99999 Own Working 60.8 163.9 22.6 Vgood 7 No 3 1_hr No
+62806 2011_12 male 53 " 50-59" Black "9 - 11th Grade" LivePartner 15000-19999 Rent NotWorking 65.6 161.9 25 Vgood 6 No 2 0_to_1_hr No
+62817 2011_12 male 41 " 40-49" Black "High School" LivePartner 25000-34999 Rent Working 91.7 169.5 31.9 Vgood 6 No 5 4_hr Yes
+62898 2011_12 female 24 " 20-29" Black "9 - 11th Grade" Married 35000-44999 Own Working 86.5 168.3 30.5 Fair 10 No 4 3_hr No
+62902 2011_12 female 48 " 40-49" White "Some College" Married 20000-24999 Own NotWorking 71.3 162.3 27.1 Vgood 7 No 1 1_hr Yes
+62922 2011_12 female 31 " 30-39" White "Some College" NeverMarried 25000-34999 Rent Working 62.6 165.9 22.7 Good 7 Yes 5 0_to_1_hr No
+62922 2011_12 female 31 " 30-39" White "Some College" NeverMarried 25000-34999 Rent Working 62.6 165.9 22.7 Good 7 Yes 2 0_to_1_hr No
+62967 2011_12 male 36 " 30-39" Black "9 - 11th Grade" NeverMarried "more 99999" Own Working 74.6 183.2 22.2 Good 7 Yes 5 2_hr No
+62982 2011_12 female 66 " 60-69" White "High School" Widowed 10000-14999 Own NotWorking 81.4 155.6 33.6 Good 9 Yes 2 2_hr No
+62993 2011_12 female 34 " 30-39" White "College Grad" Married 75000-99999 Own Working 70.1 169.1 24.5 Excellent 7 Yes 3 2_hr No
+63000 2011_12 female 60 " 60-69" Black "College Grad" Divorced " 5000-9999" Own NotWorking 112.7 170.5 38.8 Good 5 No 7 3_hr No
+63015 2011_12 male 65 " 60-69" Other "Some College" Married 35000-44999 Own NotWorking 72.7 175 23.7 Fair 6 Yes 3 2_hr Yes
+63022 2011_12 male 49 " 40-49" White "8th Grade" Married 75000-99999 Own NotWorking 84.3 170.9 28.9 Fair 4 No 4 2_hr No
+63023 2011_12 male 25 " 20-29" White "Some College" LivePartner 25000-34999 Rent Working 70.6 177.4 22.4 Good 7 No 5 1_hr No
+63082 2011_12 female 59 " 50-59" White "9 - 11th Grade" LivePartner 15000-19999 Own NotWorking 53.6 155.8 22.1 Fair 8 Yes 3 4_hr Yes
+63082 2011_12 female 59 " 50-59" White "9 - 11th Grade" LivePartner 15000-19999 Own NotWorking 53.6 155.8 22.1 Fair 8 Yes 2 4_hr Yes
+63082 2011_12 female 59 " 50-59" White "9 - 11th Grade" LivePartner 15000-19999 Own NotWorking 53.6 155.8 22.1 Fair 8 Yes 7 4_hr Yes
+63106 2011_12 male 50 " 50-59" White "9 - 11th Grade" Divorced 10000-14999 Own NotWorking 82.8 172.2 27.9 Fair 4 No 3 2_hr No
+63127 2011_12 male 28 " 20-29" Other "Some College" Married 75000-99999 Rent Working 71.3 160.3 27.7 Good 6 Yes 5 4_hr Yes
+63156 2011_12 female 70 " 70+" White "Some College" Married 45000-54999 Own NotWorking 75.2 161 29 Good 6 No 3 4_hr No
+63159 2011_12 male 48 " 40-49" White "Some College" Married 15000-19999 Other NotWorking 122.1 180.1 37.6 Good 7 No 5 3_hr No
+63163 2011_12 male 48 " 40-49" White "9 - 11th Grade" NeverMarried "more 99999" Rent NotWorking 83.1 173 27.8 Good 6 No 2 More_4_hr Yes
+63200 2011_12 female 59 " 50-59" White "College Grad" Married "more 99999" Own Working 65.1 155.6 26.9 Good 8 Yes 6 4_hr No
+63205 2011_12 male 67 " 60-69" White "8th Grade" Married 35000-44999 Own NotWorking 60.8 171 20.8 Fair 8 No 1 2_hr No
+63206 2011_12 male 38 " 30-39" Black "Some College" LivePartner 35000-44999 Own Working 64.9 180.1 20 Good 8 No 2 1_hr Yes
+63215 2011_12 female 62 " 60-69" Black "Some College" Divorced "more 99999" Own Working 172.5 170.9 59.1 Good 8 No 3 4_hr No
+63219 2011_12 male 39 " 30-39" Other "College Grad" NeverMarried "more 99999" Own Working 61.3 172.3 20.6 Vgood 7 Yes 3 2_hr Yes
+63223 2011_12 male 59 " 50-59" White "Some College" Divorced 35000-44999 Rent Working 103.7 177.7 32.8 Good 7 No 2 2_hr No
+63223 2011_12 male 59 " 50-59" White "Some College" Divorced 35000-44999 Rent Working 103.7 177.7 32.8 Good 7 No 4 2_hr No
+63267 2011_12 female 72 " 70+" White "High School" Widowed 10000-14999 Rent NotWorking 108 160.9 41.7 Fair 5 Yes 5 More_4_hr Yes
+63284 2011_12 male 79 " 70+" White "Some College" Married 35000-44999 Own NotWorking 82.8 164.4 30.6 Good 7 Yes 3 3_hr No
+63302 2011_12 male 28 " 20-29" White "Some College" NeverMarried 20000-24999 Rent Working 81.6 190.2 22.6 Fair 8 Yes 5 0_to_1_hr Yes
+63302 2011_12 male 28 " 20-29" White "Some College" NeverMarried 20000-24999 Rent Working 81.6 190.2 22.6 Fair 8 Yes 4 0_to_1_hr Yes
+63352 2011_12 male 64 " 60-69" White "High School" Married "more 99999" Own Working 78.1 184.8 22.9 Good 6 No 3 3_hr Yes
+63361 2011_12 male 67 " 60-69" Black "College Grad" Widowed 25000-34999 Own NotWorking 84.9 182.1 25.6 Good 6 Yes 3 4_hr No
+63398 2011_12 female 78 " 70+" Other "8th Grade" Widowed 15000-19999 Own NotWorking 53.2 141.3 26.6 Vgood 6 No 2 More_4_hr No
+63426 2011_12 male 58 " 50-59" White "9 - 11th Grade" Divorced 10000-14999 Rent Working 83.3 175.9 26.9 Fair 6 No 2 1_hr Yes
+63463 2011_12 female 61 " 60-69" White "Some College" Married "more 99999" Own Working 65.3 173.3 21.7 Vgood 6 No 1 3_hr Yes
+63463 2011_12 female 61 " 60-69" White "Some College" Married "more 99999" Own Working 65.3 173.3 21.7 Vgood 6 No 4 3_hr Yes
+63463 2011_12 female 61 " 60-69" White "Some College" Married "more 99999" Own Working 65.3 173.3 21.7 Vgood 6 No 4 3_hr Yes
+63463 2011_12 female 61 " 60-69" White "Some College" Married "more 99999" Own Working 65.3 173.3 21.7 Vgood 6 No 7 3_hr Yes
+63472 2011_12 female 24 " 20-29" White "Some College" LivePartner 25000-34999 Rent Working 77 176.8 24.6 Vgood 9 No 4 1_hr No
+63472 2011_12 female 24 " 20-29" White "Some College" LivePartner 25000-34999 Rent Working 77 176.8 24.6 Vgood 9 No 3 1_hr No
+63475 2011_12 male 41 " 40-49" White "Some College" NeverMarried "more 99999" Rent Working 87.1 185.1 25.4 Good 6 No 3 2_hr Yes
+63475 2011_12 male 41 " 40-49" White "Some College" NeverMarried "more 99999" Rent Working 87.1 185.1 25.4 Good 6 No 2 2_hr Yes
+63484 2011_12 male 69 " 60-69" White "College Grad" Divorced 20000-24999 Own NotWorking 59.9 157.1 24.3 Excellent 5 Yes 5 0_to_1_hr No
+63552 2011_12 male 50 " 50-59" Hispanic "Some College" Married 45000-54999 Own Working 98.5 178.1 31.1 Vgood 7 No 3 1_hr Yes
+63576 2011_12 male 46 " 40-49" Hispanic "College Grad" LivePartner "more 99999" Own Working 82.3 172.3 27.7 Good 7 Yes 3 3_hr Yes
+63617 2011_12 male 29 " 20-29" White "College Grad" Married "more 99999" Rent Working 83.3 189.4 23.2 Vgood 7 Yes 2 0_to_1_hr No
+63638 2011_12 female 47 " 40-49" White "College Grad" Married 65000-74999 Own Working 110 177.3 35 Good 8 Yes 1 2_hr No
+63638 2011_12 female 47 " 40-49" White "College Grad" Married 65000-74999 Own Working 110 177.3 35 Good 8 Yes 6 2_hr No
+63638 2011_12 female 47 " 40-49" White "College Grad" Married 65000-74999 Own Working 110 177.3 35 Good 8 Yes 5 2_hr No
+63642 2011_12 male 25 " 20-29" Black "High School" LivePartner " 5000-9999" Rent Looking 81.5 167.9 28.9 Good 8 Yes 2 1_hr No
+63673 2011_12 male 43 " 40-49" White "9 - 11th Grade" Married 25000-34999 Rent Working 113.5 186.3 32.7 Fair 7 No 5 1_hr Yes
+63689 2011_12 female 66 " 60-69" White "High School" Married "more 99999" Own NotWorking 71.3 164.4 26.4 Vgood 7 No 3 4_hr No
+63719 2011_12 male 21 " 20-29" White "High School" NeverMarried 20000-24999 Rent NotWorking 58.4 173.9 19.3 Good 6 Yes 4 1_hr Yes
+63766 2011_12 female 54 " 50-59" White "Some College" Married "more 99999" Own Working 79.8 170.8 27.4 Good 6 No 4 3_hr No
+63788 2011_12 female 40 " 40-49" White "High School" Divorced 10000-14999 Rent Working 49.3 164.5 18.2 Good 7 Yes 7 0_to_1_hr Yes
+63795 2011_12 male 59 " 50-59" White "Some College" LivePartner 65000-74999 Rent NotWorking 80.9 175.2 26.4 Good 6 No 4 More_4_hr Yes
+63795 2011_12 male 59 " 50-59" White "Some College" LivePartner 65000-74999 Rent NotWorking 80.9 175.2 26.4 Good 6 No 3 More_4_hr Yes
+63795 2011_12 male 59 " 50-59" White "Some College" LivePartner 65000-74999 Rent NotWorking 80.9 175.2 26.4 Good 6 No 4 More_4_hr Yes
+63825 2011_12 male 31 " 30-39" Other "College Grad" NeverMarried 75000-99999 Rent Working 83.4 185 24.4 Vgood 5 Yes 3 2_hr No
+63832 2011_12 male 46 " 40-49" White "Some College" Married 45000-54999 Own Working 112.2 180.5 34.4 Good 6 Yes 7 4_hr No
+63837 2011_12 female 70 " 70+" White "Some College" Widowed 65000-74999 Own NotWorking 107.9 164.9 39.7 Vgood 7 Yes 5 2_hr No
+63852 2011_12 male 50 " 50-59" White "Some College" Married "more 99999" Rent Working 96.7 173.8 32 Vgood 5 No 1 3_hr No
+63908 2011_12 male 55 " 50-59" Mexican "9 - 11th Grade" Married 35000-44999 Own Working 90.6 168.6 31.9 Vgood 6 Yes 2 0_to_1_hr No
+63982 2011_12 female 69 " 60-69" White "Some College" Widowed 35000-44999 Own NotWorking 89.3 165.2 32.7 Fair 6 No 7 More_4_hr Yes
+63983 2011_12 male 31 " 30-39" White "9 - 11th Grade" Married 20000-24999 Rent NotWorking 80 172 27 Good 3 No 5 1_hr Yes
+64029 2011_12 male 22 " 20-29" Mexican "High School" NeverMarried 35000-44999 Own Working 99.9 176.8 32 Vgood 7 Yes 1 0_to_1_hr Yes
+64029 2011_12 male 22 " 20-29" Mexican "High School" NeverMarried 35000-44999 Own Working 99.9 176.8 32 Vgood 7 Yes 1 0_to_1_hr Yes
+64048 2011_12 female 54 " 50-59" White "Some College" Divorced 45000-54999 Own Working 67.5 160.6 26.2 Good 5 No 5 0_to_1_hr No
+64082 2011_12 male 64 " 60-69" White "High School" Married 65000-74999 Own Working 82.6 173.2 27.5 Good 8 No 1 4_hr No
+64082 2011_12 male 64 " 60-69" White "High School" Married 65000-74999 Own Working 82.6 173.2 27.5 Good 8 No 7 4_hr No
+64111 2011_12 female 33 " 30-39" Black "9 - 11th Grade" NeverMarried " 0-4999" Rent Looking 95.8 170.2 33.1 Excellent 7 No 6 More_4_hr Yes
+64149 2011_12 male 29 " 20-29" White "Some College" LivePartner 25000-34999 Rent Working 122.8 188 34.7 Good 8 No 2 2_hr Yes
+64149 2011_12 male 29 " 20-29" White "Some College" LivePartner 25000-34999 Rent Working 122.8 188 34.7 Good 8 No 2 2_hr Yes
+64158 2011_12 male 27 " 20-29" Black "Some College" Married 35000-44999 Own NotWorking 93.3 189.1 26.1 Vgood 3 Yes 5 3_hr Yes
+64181 2011_12 female 56 " 50-59" Mexican "High School" LivePartner 75000-99999 Own NotWorking 98.3 164.5 36.3 Vgood 5 No 2 2_hr No
+64181 2011_12 female 56 " 50-59" Mexican "High School" LivePartner 75000-99999 Own NotWorking 98.3 164.5 36.3 Vgood 5 No 5 2_hr No
+64182 2011_12 female 67 " 60-69" White "High School" Married 25000-34999 Own NotWorking 52.5 154.4 22 Vgood 7 No 7 More_4_hr No
+64228 2011_12 male 44 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 112.8 174.6 37 Fair 6 No 4 3_hr No
+64228 2011_12 male 44 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 112.8 174.6 37 Fair 6 No 4 3_hr No
+64228 2011_12 male 44 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 112.8 174.6 37 Fair 6 No 1 3_hr No
+64228 2011_12 male 44 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 112.8 174.6 37 Fair 6 No 5 3_hr No
+64228 2011_12 male 44 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 112.8 174.6 37 Fair 6 No 3 3_hr No
+64244 2011_12 female 40 " 40-49" White "College Grad" NeverMarried " 5000-9999" Rent Working 69.3 171.6 23.5 Vgood 7 No 3 2_hr No
+64247 2011_12 male 42 " 40-49" Mexican "8th Grade" Married 20000-24999 Rent Working 64.4 161.5 24.7 Good 5 No 1 More_4_hr No
+64356 2011_12 male 20 " 20-29" Mexican "High School" NeverMarried 35000-44999 Rent NotWorking 53.7 174.9 17.6 Good 9 No 3 2_hr Yes
+64356 2011_12 male 20 " 20-29" Mexican "High School" NeverMarried 35000-44999 Rent NotWorking 53.7 174.9 17.6 Good 9 No 4 2_hr Yes
+64368 2011_12 male 70 " 70+" Black "8th Grade" Divorced " 5000-9999" Rent NotWorking 76 176.9 24.3 Vgood 5 Yes 4 More_4_hr No
+64376 2011_12 male 58 " 50-59" White "High School" Divorced 10000-14999 Own NotWorking 67.8 173.7 22.5 Poor 7 No 4 2_hr Yes
+64403 2011_12 male 40 " 40-49" White "9 - 11th Grade" Widowed 15000-19999 Own NotWorking 104 177.6 33 Good 5 No 2 More_4_hr Yes
+64404 2011_12 male 33 " 30-39" White "College Grad" Married 45000-54999 Rent Looking 101.7 180.7 31.1 Excellent 4 Yes 3 4_hr Yes
+64404 2011_12 male 33 " 30-39" White "College Grad" Married 45000-54999 Rent Looking 101.7 180.7 31.1 Excellent 4 Yes 4 4_hr Yes
+64446 2011_12 male 47 " 40-49" White "High School" Married 35000-44999 Own Working 75 168.9 26.3 Vgood 7 No 4 2_hr No
+64447 2011_12 female 41 " 40-49" White "High School" NeverMarried 15000-19999 Own Working 74.1 173.2 24.7 Fair 7 No 7 2_hr Yes
+64461 2011_12 female 34 " 30-39" White "Some College" NeverMarried " 0-4999" Rent NotWorking 92.4 159.8 36.2 Poor 6 Yes 4 0_to_1_hr Yes
+64465 2011_12 female 32 " 30-39" Hispanic "Some College" LivePartner 35000-44999 Rent Working 56.7 155.6 23.4 Good 4 No 7 1_hr No
+64469 2011_12 male 47 " 40-49" Black "College Grad" NeverMarried 45000-54999 Own Working 84.8 178.8 26.5 Vgood 6 Yes 3 2_hr No
+64472 2011_12 female 50 " 50-59" White "Some College" Married 10000-14999 Other NotWorking 107 163.3 40.1 Poor 4 No 3 More_4_hr No
+64491 2011_12 male 29 " 20-29" White "Some College" LivePartner 45000-54999 Rent Working 83.3 182.2 25.1 Vgood 6 No 7 More_4_hr Yes
+64491 2011_12 male 29 " 20-29" White "Some College" LivePartner 45000-54999 Rent Working 83.3 182.2 25.1 Vgood 6 No 6 More_4_hr Yes
+64497 2011_12 male 60 " 60-69" White "8th Grade" NeverMarried 20000-24999 Own NotWorking 89.9 165.7 32.7 Fair 7 No 5 More_4_hr No
+64497 2011_12 male 60 " 60-69" White "8th Grade" NeverMarried 20000-24999 Own NotWorking 89.9 165.7 32.7 Fair 7 No 1 More_4_hr No
+64507 2011_12 male 70 " 70+" White "8th Grade" Widowed 55000-64999 Own NotWorking 96.6 183.8 28.6 Fair 9 No 3 More_4_hr No
+64507 2011_12 male 70 " 70+" White "8th Grade" Widowed 55000-64999 Own NotWorking 96.6 183.8 28.6 Fair 9 No 3 More_4_hr No
+64514 2011_12 female 31 " 30-39" Hispanic "9 - 11th Grade" LivePartner 15000-19999 Rent Looking 53 153.9 22.4 Good 6 No 5 3_hr Yes
+64530 2011_12 male 53 " 50-59" White "9 - 11th Grade" Married 65000-74999 Own Working 140.1 184.9 41 Good 6 No 5 4_hr No
+64530 2011_12 male 53 " 50-59" White "9 - 11th Grade" Married 65000-74999 Own Working 140.1 184.9 41 Good 6 No 4 4_hr No
+64530 2011_12 male 53 " 50-59" White "9 - 11th Grade" Married 65000-74999 Own Working 140.1 184.9 41 Good 6 No 3 4_hr No
+64559 2011_12 female 70 " 70+" White "High School" Married 35000-44999 Own NotWorking 108.7 166.1 39.4 Fair 7 No 4 2_hr No
+64559 2011_12 female 70 " 70+" White "High School" Married 35000-44999 Own NotWorking 108.7 166.1 39.4 Fair 7 No 5 2_hr No
+64559 2011_12 female 70 " 70+" White "High School" Married 35000-44999 Own NotWorking 108.7 166.1 39.4 Fair 7 No 5 2_hr No
+64582 2011_12 male 59 " 50-59" Other "Some College" Married 45000-54999 Rent Working 66.6 168.2 23.5 Good 6 No 4 4_hr No
+64582 2011_12 male 59 " 50-59" Other "Some College" Married 45000-54999 Rent Working 66.6 168.2 23.5 Good 6 No 1 4_hr No
+64607 2011_12 female 42 " 40-49" Black "Some College" Married "more 99999" Rent Working 103.8 166.3 37.5 Good 5 No 3 More_4_hr Yes
+64632 2011_12 male 21 " 20-29" Hispanic "High School" NeverMarried 65000-74999 Own Working 101.2 181.9 30.6 Vgood 7 Yes 3 1_hr Yes
+64654 2011_12 male 44 " 40-49" White "High School" Married 35000-44999 Rent Working 104.2 181.7 31.6 Good 7 Yes 4 More_4_hr Yes
+64654 2011_12 male 44 " 40-49" White "High School" Married 35000-44999 Rent Working 104.2 181.7 31.6 Good 7 Yes 1 More_4_hr Yes
+64661 2011_12 male 29 " 20-29" Hispanic "High School" NeverMarried 45000-54999 Rent Working 68.9 171 23.6 Vgood 5 Yes 2 More_4_hr Yes
+64704 2011_12 male 62 " 60-69" Mexican "8th Grade" Married 45000-54999 Own NotWorking 84.9 173.2 28.3 Fair 5 No 5 1_hr No
+64726 2011_12 male 55 " 50-59" Black "9 - 11th Grade" Married 45000-54999 Rent Working 93.7 189.7 26 Fair 5 No 4 3_hr No
+64825 2011_12 female 52 " 50-59" White "Some College" Married "more 99999" Own NotWorking 71.9 168 25.5 Good 5 Yes 1 4_hr Yes
+64825 2011_12 female 52 " 50-59" White "Some College" Married "more 99999" Own NotWorking 71.9 168 25.5 Good 5 Yes 4 4_hr Yes
+64858 2011_12 female 65 " 60-69" White "9 - 11th Grade" Divorced 10000-14999 Rent NotWorking 57.1 158.3 22.8 Fair 7 No 5 4_hr Yes
+64859 2011_12 female 46 " 40-49" White "High School" Married 45000-54999 Own Working 68.4 160.6 26.5 Good 4 No 3 More_4_hr Yes
+64859 2011_12 female 46 " 40-49" White "High School" Married 45000-54999 Own Working 68.4 160.6 26.5 Good 4 No 3 More_4_hr Yes
+64860 2011_12 male 50 " 50-59" White "9 - 11th Grade" Married 35000-44999 Rent Working 65.1 164.9 23.9 Good 4 Yes 3 2_hr Yes
+64880 2011_12 male 60 " 60-69" White "High School" Married "more 99999" Own Working 57.2 162 21.8 Vgood 7 No 1 0_hrs Yes
+64965 2011_12 male 26 " 20-29" White "Some College" Married "more 99999" Own Working 82.6 160 32.3 Good 5 No 1 4_hr Yes
+64998 2011_12 male 54 " 50-59" White "College Grad" NeverMarried 55000-64999 Own Working 120.4 190.8 33.1 Vgood 7 Yes 5 3_hr No
+64998 2011_12 male 54 " 50-59" White "College Grad" NeverMarried 55000-64999 Own Working 120.4 190.8 33.1 Vgood 7 Yes 3 3_hr No
+65088 2011_12 female 37 " 30-39" White "Some College" NeverMarried "more 99999" Own Working 93.5 176.7 29.9 Good 8 No 2 0_to_1_hr No
+65133 2011_12 female 47 " 40-49" White "College Grad" Married 10000-14999 Rent NotWorking 79.1 163 29.8 Good 6 Yes 4 2_hr No
+65145 2011_12 female 57 " 50-59" Mexican "High School" Married 65000-74999 Own NotWorking 53.2 155.8 21.9 Vgood 8 No 2 3_hr No
+65151 2011_12 female 26 " 20-29" Mexican "High School" Married 35000-44999 Own NotWorking 94.1 160.5 36.5 Good 8 Yes 3 More_4_hr No
+65151 2011_12 female 26 " 20-29" Mexican "High School" Married 35000-44999 Own NotWorking 94.1 160.5 36.5 Good 8 Yes 2 More_4_hr No
+65164 2011_12 male 42 " 40-49" Black "9 - 11th Grade" LivePartner " 5000-9999" Other NotWorking 115.4 164.8 42.5 Fair 5 No 7 0_hrs Yes
+65177 2011_12 male 22 " 20-29" White "Some College" NeverMarried 65000-74999 Rent Working 73.5 179.6 22.8 Excellent 7 Yes 3 0_to_1_hr No
+65194 2011_12 male 31 " 30-39" Other "College Grad" NeverMarried "more 99999" Rent Working 73.2 180.4 22.5 Good 7 Yes 7 2_hr Yes
+65227 2011_12 female 30 " 30-39" White "Some College" NeverMarried 10000-14999 Rent Looking 101.3 164 37.7 Good 7 No 7 4_hr Yes
+65236 2011_12 female 73 " 70+" Black "9 - 11th Grade" Divorced 35000-44999 Own NotWorking 66.8 157.3 27 Poor 6 Yes 1 More_4_hr No
+65237 2011_12 female 25 " 20-29" White "College Grad" LivePartner 15000-19999 Own Working 64.9 154.6 27.2 Vgood 6 Yes 1 0_to_1_hr No
+65299 2011_12 male 29 " 20-29" White "Some College" LivePartner "more 99999" Rent Working 77.5 184.7 22.7 Excellent 8 Yes 3 2_hr Yes
+65310 2011_12 male 40 " 40-49" White "9 - 11th Grade" Divorced 25000-34999 Rent Working 137.3 174.3 45.2 Fair 6 No 6 2_hr No
+65310 2011_12 male 40 " 40-49" White "9 - 11th Grade" Divorced 25000-34999 Rent Working 137.3 174.3 45.2 Fair 6 No 3 2_hr No
+65325 2011_12 female 73 " 70+" White "Some College" Widowed 35000-44999 Own NotWorking 52.9 160.2 20.6 Good 4 No 4 2_hr Yes
+65325 2011_12 female 73 " 70+" White "Some College" Widowed 35000-44999 Own NotWorking 52.9 160.2 20.6 Good 4 No 4 2_hr Yes
+65340 2011_12 female 25 " 20-29" White "Some College" Married "more 99999" Own Working 59.6 164.3 22.1 Vgood 7 No 6 2_hr Yes
+65340 2011_12 female 25 " 20-29" White "Some College" Married "more 99999" Own Working 59.6 164.3 22.1 Vgood 7 No 3 2_hr Yes
+65368 2011_12 male 23 " 20-29" White "High School" Married 10000-14999 Rent Working 46.2 166.2 16.7 Vgood 6 No 2 1_hr Yes
+65399 2011_12 male 59 " 50-59" Black "Some College" Married "more 99999" Own Working 68 165.7 24.8 Excellent 8 No 6 4_hr Yes
+65402 2011_12 male 33 " 30-39" White "9 - 11th Grade" NeverMarried "more 99999" Own NotWorking 64.9 175.4 21.1 Good 8 No 2 More_4_hr Yes
+65440 2011_12 male 61 " 60-69" Black "High School" Married 45000-54999 Own NotWorking 71.3 176.7 22.8 Fair 5 No 7 More_4_hr No
+65461 2011_12 male 50 " 50-59" Black "High School" Married 20000-24999 Own NotWorking 85.7 171.3 29.2 Fair 10 No 2 More_4_hr Yes
+65462 2011_12 female 49 " 40-49" White "College Grad" Divorced 55000-64999 Own Working 61.1 164.5 22.6 Good 7 No 5 0_to_1_hr Yes
+65462 2011_12 female 49 " 40-49" White "College Grad" Divorced 55000-64999 Own Working 61.1 164.5 22.6 Good 7 No 5 0_to_1_hr Yes
+65530 2011_12 male 40 " 40-49" White "Some College" Divorced 20000-24999 Rent Working 106.2 194.7 28 Good 5 No 7 More_4_hr Yes
+65605 2011_12 male 68 " 60-69" Mexican "High School" Married 45000-54999 Own NotWorking 110.7 173.9 36.6 Good 7 Yes 5 4_hr No
+65633 2011_12 male 57 " 50-59" White "Some College" NeverMarried " 0-4999" Other Working 74.1 166.4 26.8 Vgood 6 Yes 1 0_hrs No
+65641 2011_12 female 33 " 30-39" White "High School" Divorced 20000-24999 Rent Working 89.2 160.8 34.5 Good 7 No 5 1_hr Yes
+65688 2011_12 female 54 " 50-59" White "Some College" Married "more 99999" Own Working 64.8 160.9 25 Vgood 8 Yes 4 1_hr No
+65722 2011_12 female 39 " 30-39" Mexican "9 - 11th Grade" LivePartner 15000-19999 Rent NotWorking 59.2 155.4 24.5 Good 6 Yes 5 4_hr Yes
+65737 2011_12 female 53 " 50-59" White "High School" Married 75000-99999 Own Looking 72.5 160.4 28.2 Vgood 8 No 3 4_hr Yes
+65739 2011_12 male 71 " 70+" White "Some College" Married 45000-54999 Own NotWorking 64.1 164.9 23.6 Fair 6 No 3 More_4_hr Yes
+65739 2011_12 male 71 " 70+" White "Some College" Married 45000-54999 Own NotWorking 64.1 164.9 23.6 Fair 6 No 3 More_4_hr Yes
+65741 2011_12 male 26 " 20-29" Mexican "8th Grade" LivePartner 45000-54999 Own NotWorking 80.2 160.1 31.3 Good 6 No 4 1_hr Yes
+65764 2011_12 female 73 " 70+" White "High School" Married 25000-34999 Own NotWorking 91.6 160 35.8 Fair 6 No 2 3_hr No
+65770 2011_12 male 40 " 40-49" Mexican "9 - 11th Grade" LivePartner 35000-44999 Own NotWorking 71.1 165.8 25.9 Fair 6 No 5 1_hr Yes
+65800 2011_12 female 61 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 86.3 166.9 31 Good 8 Yes 3 2_hr No
+65804 2011_12 male 59 " 50-59" White "Some College" Married 75000-99999 Own NotWorking 95.4 173.7 31.6 Good 7 Yes 5 More_4_hr No
+65804 2011_12 male 59 " 50-59" White "Some College" Married 75000-99999 Own NotWorking 95.4 173.7 31.6 Good 7 Yes 2 More_4_hr No
+65804 2011_12 male 59 " 50-59" White "Some College" Married 75000-99999 Own NotWorking 95.4 173.7 31.6 Good 7 Yes 3 More_4_hr No
+65812 2011_12 male 30 " 30-39" Other "College Grad" Married 25000-34999 Rent NotWorking 69.9 178.7 21.9 Good 10 Yes 3 4_hr Yes
+65812 2011_12 male 30 " 30-39" Other "College Grad" Married 25000-34999 Rent NotWorking 69.9 178.7 21.9 Good 10 Yes 2 4_hr Yes
+65823 2011_12 male 37 " 30-39" Mexican "9 - 11th Grade" Separated " 0-4999" Own Working 87.7 172.4 29.5 Fair 4 Yes 3 3_hr Yes
+65824 2011_12 male 57 " 50-59" White "College Grad" NeverMarried 65000-74999 Own Working 108.1 188.2 30.5 Excellent 7 Yes 1 2_hr No
+65895 2011_12 female 50 " 50-59" White "9 - 11th Grade" Married 35000-44999 Rent NotWorking 91.9 156.4 37.6 Good 6 Yes 3 3_hr Yes
+65896 2011_12 female 31 " 30-39" White "High School" NeverMarried "more 99999" Own NotWorking 70.2 162.1 26.7 Fair 7 No 2 3_hr Yes
+65974 2011_12 female 63 " 60-69" White "Some College" Married 65000-74999 Own Working 65.7 159.7 25.8 Excellent 8 Yes 5 0_to_1_hr No
+65978 2011_12 male 57 " 50-59" White "Some College" NeverMarried 25000-34999 Own Working 104.5 174.4 34.4 Good 8 No 3 1_hr Yes
+65993 2011_12 female 65 " 60-69" White "High School" Divorced 45000-54999 Own Working 93.4 163.5 34.9 Good 8 No 2 More_4_hr No
+66068 2011_12 male 76 " 70+" Other "High School" Married 20000-24999 Rent NotWorking 56.7 163.4 21.2 Fair 8 No 3 More_4_hr No
+66079 2011_12 male 54 " 50-59" Black "High School" NeverMarried 15000-19999 Rent Working 92.2 165.2 33.8 Fair 5 No 5 2_hr Yes
+66115 2011_12 female 59 " 50-59" White "College Grad" Married 65000-74999 Own Working 64.5 173.2 21.5 Vgood 8 Yes 5 1_hr No
+66152 2011_12 female 58 " 50-59" Black "Some College" Widowed 35000-44999 Own NotWorking 46.6 162.7 17.6 Fair 8 No 7 More_4_hr Yes
+66165 2011_12 male 24 " 20-29" White "High School" Married 20000-24999 Rent Working 129.4 184.7 37.9 Good 5 No 7 1_hr Yes
+66169 2011_12 male 63 " 60-69" White "College Grad" Married "more 99999" Own Working 89.6 179.8 27.7 Good 7 Yes 4 1_hr No
+66194 2011_12 female 63 " 60-69" White "College Grad" Married "more 99999" Own Working 61.6 149.9 27.4 Vgood 7 Yes 4 2_hr No
+66208 2011_12 male 53 " 50-59" White "9 - 11th Grade" Married 45000-54999 Own Working 80 171.3 27.3 Good 8 No 5 2_hr Yes
+66228 2011_12 male 28 " 20-29" White "College Grad" NeverMarried 75000-99999 Rent Working 69.5 176.8 22.2 Vgood 6 Yes 3 1_hr No
+66253 2011_12 female 38 " 30-39" White "Some College" Married 55000-64999 Own Working 85.8 173.8 28.4 Good 5 Yes 3 2_hr No
+66261 2011_12 male 52 " 50-59" White "High School" NeverMarried "more 99999" Rent Working 83 171.2 28.3 Good 6 Yes 3 0_to_1_hr Yes
+66261 2011_12 male 52 " 50-59" White "High School" NeverMarried "more 99999" Rent Working 83 171.2 28.3 Good 6 Yes 3 0_to_1_hr Yes
+66285 2011_12 male 51 " 50-59" Other "College Grad" Married "more 99999" Own Working 80.5 174 26.6 Good 6 Yes 7 0_to_1_hr Yes
+66289 2011_12 male 41 " 40-49" White "College Grad" NeverMarried 35000-44999 Own Working 101.3 171.4 34.5 Good 7 Yes 2 1_hr No
+66293 2011_12 male 33 " 30-39" White "High School" NeverMarried 35000-44999 Rent Working 63.9 172 21.6 Vgood 6 Yes 7 0_to_1_hr No
+66300 2011_12 female 35 " 30-39" White "High School" LivePartner 10000-14999 Other Working 90.2 159.6 35.4 Good 7 No 5 3_hr No
+66358 2011_12 male 64 " 60-69" White "Some College" Married "more 99999" Own NotWorking 82.1 167.3 29.3 Good 7 No 7 More_4_hr Yes
+66402 2011_12 male 60 " 60-69" Other "Some College" LivePartner "more 99999" Own Working 82.6 177.4 26.2 Good 8 No 2 3_hr Yes
+66431 2011_12 female 23 " 20-29" White "Some College" LivePartner "more 99999" Rent Working 63.1 162.1 24 Good 5 Yes 1 2_hr Yes
+66439 2011_12 female 48 " 40-49" Mexican "High School" NeverMarried 35000-44999 Own Working 90.1 159.3 35.5 Good 6 No 3 4_hr Yes
+66439 2011_12 female 48 " 40-49" Mexican "High School" NeverMarried 35000-44999 Own Working 90.1 159.3 35.5 Good 6 No 6 4_hr Yes
+66439 2011_12 female 48 " 40-49" Mexican "High School" NeverMarried 35000-44999 Own Working 90.1 159.3 35.5 Good 6 No 2 4_hr Yes
+66439 2011_12 female 48 " 40-49" Mexican "High School" NeverMarried 35000-44999 Own Working 90.1 159.3 35.5 Good 6 No 2 4_hr Yes
+66441 2011_12 male 74 " 70+" Other "College Grad" Married 45000-54999 Rent NotWorking 60.6 159.6 23.8 Vgood 7 Yes 5 More_4_hr No
+66443 2011_12 female 38 " 30-39" Mexican "8th Grade" NeverMarried 15000-19999 Rent Working 80.9 152.3 34.9 Fair 6 No 2 1_hr No
+66472 2011_12 male 61 " 60-69" White "Some College" Married "more 99999" Own Working 124.9 173.9 41.3 Good 7 No 3 2_hr No
+66472 2011_12 male 61 " 60-69" White "Some College" Married "more 99999" Own Working 124.9 173.9 41.3 Good 7 No 6 2_hr No
+66472 2011_12 male 61 " 60-69" White "Some College" Married "more 99999" Own Working 124.9 173.9 41.3 Good 7 No 5 2_hr No
+66473 2011_12 male 56 " 50-59" White "College Grad" NeverMarried "more 99999" Own Working 74.5 179.1 23.2 Vgood 4 Yes 7 1_hr No
+66473 2011_12 male 56 " 50-59" White "College Grad" NeverMarried "more 99999" Own Working 74.5 179.1 23.2 Vgood 4 Yes 2 1_hr No
+66473 2011_12 male 56 " 50-59" White "College Grad" NeverMarried "more 99999" Own Working 74.5 179.1 23.2 Vgood 4 Yes 1 1_hr No
+66474 2011_12 female 43 " 40-49" White "9 - 11th Grade" Married " 0-4999" Own Working 87.8 164.4 32.5 Good 3 Yes 1 1_hr Yes
+66499 2011_12 male 21 " 20-29" White "Some College" NeverMarried " 0-4999" Rent NotWorking 81.1 187 23.2 Good 5 Yes 3 2_hr Yes
+66504 2011_12 male 70 " 70+" White "Some College" Divorced 45000-54999 Rent NotWorking 111.6 175.8 36.1 Good 8 Yes 2 4_hr No
+66522 2011_12 female 46 " 40-49" White "College Grad" Married "more 99999" Own Working 71.3 162.6 27 Vgood 8 Yes 7 2_hr No
+66522 2011_12 female 46 " 40-49" White "College Grad" Married "more 99999" Own Working 71.3 162.6 27 Vgood 8 Yes 5 2_hr No
+66538 2011_12 male 69 " 60-69" White "Some College" Married 45000-54999 Own NotWorking 82 180.5 25.2 Good 6 Yes 5 3_hr No
+66552 2011_12 male 45 " 40-49" Hispanic "Some College" Married 25000-34999 Rent Working 80.6 174.5 26.5 Good 6 No 5 4_hr Yes
+66558 2011_12 female 54 " 50-59" White "High School" Married "more 99999" Own Working 60.8 164.5 22.5 Vgood 7 Yes 6 2_hr No
+66558 2011_12 female 54 " 50-59" White "High School" Married "more 99999" Own Working 60.8 164.5 22.5 Vgood 7 Yes 2 2_hr No
+66565 2011_12 female 66 " 60-69" White "Some College" Divorced 10000-14999 Own Working 78.8 164.3 29.2 Vgood 6 No 3 1_hr No
+66568 2011_12 female 52 " 50-59" White "College Grad" Divorced "more 99999" Own Working 66 163.6 24.7 Vgood 7 Yes 5 1_hr No
+66568 2011_12 female 52 " 50-59" White "College Grad" Divorced "more 99999" Own Working 66 163.6 24.7 Vgood 7 Yes 3 1_hr No
+66568 2011_12 female 52 " 50-59" White "College Grad" Divorced "more 99999" Own Working 66 163.6 24.7 Vgood 7 Yes 5 1_hr No
+66591 2011_12 male 34 " 30-39" White "College Grad" Married "more 99999" Own Working 99.5 168.5 35 Good 5 Yes 3 2_hr No
+66591 2011_12 male 34 " 30-39" White "College Grad" Married "more 99999" Own Working 99.5 168.5 35 Good 5 Yes 3 2_hr No
+66597 2011_12 female 54 " 50-59" Mexican "9 - 11th Grade" Separated 35000-44999 Rent Working 111.4 171.7 37.8 Vgood 6 No 5 More_4_hr Yes
+66669 2011_12 female 63 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 82.6 166.7 29.7 Vgood 8 Yes 5 3_hr No
+66729 2011_12 female 64 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 57.8 161.7 22.1 Excellent 7 Yes 1 2_hr No
+66729 2011_12 female 64 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 57.8 161.7 22.1 Excellent 7 Yes 2 2_hr No
+66747 2011_12 male 59 " 50-59" White "High School" NeverMarried 55000-64999 Own Working 135.2 174.6 44.3 Fair 7 No 5 1_hr No
+66766 2011_12 male 39 " 30-39" White "9 - 11th Grade" Married 75000-99999 Own Working 72.1 195.8 18.8 Vgood 6 No 1 3_hr Yes
+66777 2011_12 male 39 " 30-39" Hispanic "8th Grade" Married 10000-14999 Rent NotWorking 122.2 169.8 42.4 Good 5 No 1 More_4_hr Yes
+66796 2011_12 male 70 " 70+" White "High School" Married 55000-64999 Rent Working 82.7 171.5 28.1 Good 7 Yes 5 1_hr No
+66817 2011_12 female 72 " 70+" White "High School" Widowed " 5000-9999" Own Looking 90.7 153 38.7 Good 6 No 2 4_hr No
+66851 2011_12 female 46 " 40-49" White "Some College" Widowed "more 99999" Own Working 83.8 170.9 28.7 Good 7 No 2 1_hr No
+66915 2011_12 male 51 " 50-59" White "9 - 11th Grade" Married 15000-19999 Rent NotWorking 109.4 184.4 32.2 Poor 8 No 4 More_4_hr Yes
+66927 2011_12 male 20 " 20-29" Hispanic "Some College" NeverMarried " 0-4999" Rent Looking 106 180.3 32.6 Good 7 Yes 3 3_hr Yes
+66944 2011_12 male 72 " 70+" White "College Grad" Married 25000-34999 Own NotWorking 86.6 171.8 29.3 Vgood 8 No 5 More_4_hr No
+66956 2011_12 female 21 " 20-29" White "9 - 11th Grade" Married 10000-14999 Rent NotWorking 68.1 162.3 25.9 Fair 7 Yes 4 More_4_hr Yes
+66956 2011_12 female 21 " 20-29" White "9 - 11th Grade" Married 10000-14999 Rent NotWorking 68.1 162.3 25.9 Fair 7 Yes 4 More_4_hr Yes
+66957 2011_12 male 62 " 60-69" White "Some College" Married 25000-34999 Own NotWorking 99.6 172 33.7 Vgood 8 Yes 4 3_hr No
+66996 2011_12 male 22 " 20-29" Black "High School" NeverMarried 75000-99999 Own Working 71.3 173.3 23.7 Good 7 Yes 4 0_to_1_hr Yes
+67039 2011_12 female 31 " 30-39" White "College Grad" Married 55000-64999 Rent Working 56.3 169.5 19.6 Vgood 6 Yes 7 0_to_1_hr No
+67039 2011_12 female 31 " 30-39" White "College Grad" Married 55000-64999 Rent Working 56.3 169.5 19.6 Vgood 6 Yes 5 0_to_1_hr No
+67055 2011_12 female 71 " 70+" White "9 - 11th Grade" Married 15000-19999 Own NotWorking 62.7 160.7 24.3 Fair 7 No 7 3_hr Yes
+67064 2011_12 male 31 " 30-39" White "College Grad" Married 75000-99999 Own Working 84.3 178 26.6 Good 7 Yes 3 0_to_1_hr No
+67083 2011_12 male 26 " 20-29" White "9 - 11th Grade" NeverMarried "more 99999" Own NotWorking 103.1 180.4 31.7 Vgood 7 No 2 1_hr Yes
+67083 2011_12 male 26 " 20-29" White "9 - 11th Grade" NeverMarried "more 99999" Own NotWorking 103.1 180.4 31.7 Vgood 7 No 3 1_hr Yes
+67083 2011_12 male 26 " 20-29" White "9 - 11th Grade" NeverMarried "more 99999" Own NotWorking 103.1 180.4 31.7 Vgood 7 No 5 1_hr Yes
+67092 2011_12 male 76 " 70+" White "College Grad" LivePartner 75000-99999 Own NotWorking 77.5 166.7 27.9 Vgood 8 Yes 1 More_4_hr No
+67115 2011_12 male 59 " 50-59" Hispanic "College Grad" Separated 55000-64999 Rent Working 100.3 174.1 33.1 Good 7 No 2 0_to_1_hr No
+67117 2011_12 female 25 " 20-29" White "Some College" LivePartner " 5000-9999" Own NotWorking 57.1 163 21.5 Vgood 5 No 5 2_hr Yes
+67118 2011_12 female 33 " 30-39" White "Some College" Divorced 25000-34999 Rent Working 81.5 161.8 31.1 Good 5 No 5 1_hr No
+67118 2011_12 female 33 " 30-39" White "Some College" Divorced 25000-34999 Rent Working 81.5 161.8 31.1 Good 5 No 3 1_hr No
+67118 2011_12 female 33 " 30-39" White "Some College" Divorced 25000-34999 Rent Working 81.5 161.8 31.1 Good 5 No 4 1_hr No
+67118 2011_12 female 33 " 30-39" White "Some College" Divorced 25000-34999 Rent Working 81.5 161.8 31.1 Good 5 No 1 1_hr No
+67119 2011_12 female 46 " 40-49" White "College Grad" LivePartner 25000-34999 Own NotWorking 85.9 162 32.7 Good 7 Yes 4 4_hr No
+67119 2011_12 female 46 " 40-49" White "College Grad" LivePartner 25000-34999 Own NotWorking 85.9 162 32.7 Good 7 Yes 6 4_hr No
+67121 2011_12 male 39 " 30-39" Other "Some College" Married 20000-24999 Rent Working 85.5 173.2 28.5 Vgood 8 No 5 3_hr No
+67129 2011_12 female 24 " 20-29" Black "Some College" NeverMarried 65000-74999 Own Working 55.1 152.7 23.6 Good 6 Yes 2 2_hr No
+67184 2011_12 male 42 " 40-49" Mexican "Some College" LivePartner "more 99999" Own Working 95.3 171.2 32.5 Vgood 7 Yes 6 0_to_1_hr No
+67190 2011_12 female 36 " 30-39" White "College Grad" Married 75000-99999 Own Working 93.1 184.5 27.3 Fair 7 Yes 6 0_to_1_hr Yes
+67190 2011_12 female 36 " 30-39" White "College Grad" Married 75000-99999 Own Working 93.1 184.5 27.3 Fair 7 Yes 3 0_to_1_hr Yes
+67191 2011_12 female 33 " 30-39" White "9 - 11th Grade" Married 25000-34999 Rent NotWorking 67.4 154.5 28.2 Vgood 8 Yes 3 2_hr No
+67192 2011_12 female 55 " 50-59" White "Some College" Married 45000-54999 Own Working 76.5 165.1 28.1 Fair 8 No 1 0_to_1_hr Yes
+67192 2011_12 female 55 " 50-59" White "Some College" Married 45000-54999 Own Working 76.5 165.1 28.1 Fair 8 No 3 0_to_1_hr Yes
+67200 2011_12 male 30 " 30-39" White "College Grad" NeverMarried "more 99999" Rent Working 86.6 180.2 26.7 Excellent 9 Yes 4 1_hr No
+67214 2011_12 male 39 " 30-39" White "College Grad" NeverMarried 75000-99999 Own Working 88.5 183.6 26.3 Vgood 8 Yes 6 2_hr No
+67219 2011_12 female 32 " 30-39" White "College Grad" Married "more 99999" Rent NotWorking 58.8 170.1 20.3 Good 7 Yes 1 2_hr No
+67297 2011_12 male 29 " 20-29" White "High School" Divorced 45000-54999 Rent Working 115.6 175.1 37.7 Fair 7 Yes 4 2_hr No
+67300 2011_12 male 72 " 70+" White "Some College" Married 55000-64999 Own NotWorking 84.6 167.9 30 Excellent 8 No 1 3_hr No
+67312 2011_12 male 45 " 40-49" White "High School" Married 55000-64999 Own Working 78.1 167.3 27.9 Good 6 No 5 2_hr No
+67312 2011_12 male 45 " 40-49" White "High School" Married 55000-64999 Own Working 78.1 167.3 27.9 Good 6 No 7 2_hr No
+67315 2011_12 female 51 " 50-59" Black "High School" Divorced 35000-44999 Rent Working 72.4 170.4 24.9 Good 7 No 5 3_hr Yes
+67321 2011_12 male 53 " 50-59" White "Some College" Married 15000-19999 Own Working 82.8 177.4 26.3 Fair 7 No 5 2_hr Yes
+67326 2011_12 female 47 " 40-49" Black "Some College" NeverMarried 20000-24999 Rent NotWorking 150.1 168.6 52.8 Fair 6 No 3 More_4_hr Yes
+67330 2011_12 male 46 " 40-49" White "9 - 11th Grade" LivePartner 25000-34999 Own Working 73.1 174.5 24 Good 8 No 6 2_hr Yes
+67330 2011_12 male 46 " 40-49" White "9 - 11th Grade" LivePartner 25000-34999 Own Working 73.1 174.5 24 Good 8 No 5 2_hr Yes
+67343 2011_12 male 58 " 50-59" Black "Some College" Divorced 25000-34999 Rent Working 75.8 182.9 22.7 Good 3 No 2 4_hr Yes
+67390 2011_12 female 56 " 50-59" White "College Grad" Divorced 55000-64999 Own NotWorking 47 160.6 18.2 Fair 9 No 2 0_hrs Yes
+67407 2011_12 male 64 " 60-69" White "High School" Married "more 99999" Own Working 70 173.2 23.3 Vgood 6 Yes 1 2_hr No
+67407 2011_12 male 64 " 60-69" White "High School" Married "more 99999" Own Working 70 173.2 23.3 Vgood 6 Yes 2 2_hr No
+67412 2011_12 male 77 " 70+" White "Some College" Married 15000-19999 Rent NotWorking 99 159 39.2 Poor 8 No 3 0_hrs No
+67447 2011_12 female 57 " 50-59" White "College Grad" NeverMarried 45000-54999 Own Working 57.6 163.8 21.5 Vgood 7 No 2 0_to_1_hr No
+67450 2011_12 male 55 " 50-59" White "Some College" NeverMarried "more 99999" Rent Working 105.8 177.5 33.6 Good 6 No 3 1_hr Yes
+67455 2011_12 male 70 " 70+" White "High School" Married 25000-34999 Own NotWorking 87.6 178.3 27.6 Vgood 8 No 1 4_hr Yes
+67455 2011_12 male 70 " 70+" White "High School" Married 25000-34999 Own NotWorking 87.6 178.3 27.6 Vgood 8 No 2 4_hr Yes
+67471 2011_12 female 45 " 40-49" White "High School" Separated 45000-54999 Own Working 62.9 165.5 23 Vgood 5 No 4 3_hr Yes
+67471 2011_12 female 45 " 40-49" White "High School" Separated 45000-54999 Own Working 62.9 165.5 23 Vgood 5 No 3 3_hr Yes
+67501 2011_12 female 62 " 60-69" Other "Some College" Married 65000-74999 Own Working 88.1 166.4 31.8 Good 7 No 2 More_4_hr Yes
+67513 2011_12 male 53 " 50-59" Black "High School" Married " 5000-9999" Rent NotWorking 70.8 175 23.1 Fair 6 No 7 More_4_hr Yes
+67521 2011_12 female 76 " 70+" White "9 - 11th Grade" Divorced 15000-19999 Own NotWorking 124.9 169.7 43.4 Good 6 No 7 3_hr No
+67532 2011_12 female 71 " 70+" White "8th Grade" Married 25000-34999 Own NotWorking 60.5 168.2 21.4 Good 10 No 5 More_4_hr Yes
+67539 2011_12 female 27 " 20-29" White "8th Grade" Married 20000-24999 Rent NotWorking 97 157.4 39.2 Good 6 Yes 2 1_hr Yes
+67539 2011_12 female 27 " 20-29" White "8th Grade" Married 20000-24999 Rent NotWorking 97 157.4 39.2 Good 6 Yes 4 1_hr Yes
+67539 2011_12 female 27 " 20-29" White "8th Grade" Married 20000-24999 Rent NotWorking 97 157.4 39.2 Good 6 Yes 5 1_hr Yes
+67544 2011_12 female 55 " 50-59" Black "Some College" Separated " 0-4999" Own Working 88.9 164.8 32.7 Good 7 No 4 3_hr Yes
+67545 2011_12 female 22 " 20-29" White "High School" LivePartner 55000-64999 Rent Looking 54.5 162.2 20.7 Vgood 7 Yes 4 0_to_1_hr Yes
+67560 2011_12 male 68 " 60-69" Other "8th Grade" NeverMarried 25000-34999 Own Working 52.5 159.7 20.6 Poor 6 No 1 2_hr No
+67582 2011_12 female 29 " 20-29" Black "9 - 11th Grade" Married 10000-14999 Rent NotWorking 83.6 164.9 30.7 Good 6 No 7 More_4_hr Yes
+67594 2011_12 male 43 " 40-49" White "College Grad" Married "more 99999" Own NotWorking 87.4 185.9 25.3 Good 7 Yes 3 2_hr No
+67616 2011_12 male 63 " 60-69" White "9 - 11th Grade" LivePartner 15000-19999 Own NotWorking 70 184.3 20.6 Vgood 6 No 7 More_4_hr Yes
+67624 2011_12 male 30 " 30-39" White "College Grad" NeverMarried " 0-4999" Rent NotWorking 75 174.2 24.7 Vgood 6 Yes 6 0_to_1_hr Yes
+67624 2011_12 male 30 " 30-39" White "College Grad" NeverMarried " 0-4999" Rent NotWorking 75 174.2 24.7 Vgood 6 Yes 5 0_to_1_hr Yes
+67668 2011_12 female 70 " 70+" White "Some College" Widowed 20000-24999 Own NotWorking 96.6 174.2 31.8 Good 8 No 2 3_hr No
+67683 2011_12 female 56 " 50-59" White "Some College" LivePartner 35000-44999 Own Working 65 177.4 20.7 Fair 6 No 4 2_hr Yes
+67745 2011_12 female 72 " 70+" White "Some College" Divorced " 5000-9999" Rent NotWorking 105.4 162.4 40 Good 6 No 4 More_4_hr No
+67785 2011_12 female 38 " 30-39" White "9 - 11th Grade" Married 15000-19999 Rent NotWorking 65.1 163.1 24.5 Good 5 Yes 5 0_hrs Yes
+67786 2011_12 male 45 " 40-49" White "9 - 11th Grade" NeverMarried 10000-14999 Own Working 90.8 178.2 28.6 Good 7 No 7 3_hr No
+67786 2011_12 male 45 " 40-49" White "9 - 11th Grade" NeverMarried 10000-14999 Own Working 90.8 178.2 28.6 Good 7 No 3 3_hr No
+67799 2011_12 female 38 " 30-39" White "Some College" Married 25000-34999 Rent NotWorking 94.9 158.4 37.8 Good 6 Yes 3 1_hr No
+67817 2011_12 male 55 " 50-59" White "Some College" Divorced 45000-54999 Other Working 89.6 173 29.9 Vgood 6 No 7 0_to_1_hr No
+67828 2011_12 male 67 " 60-69" Black "8th Grade" Married 15000-19999 Own Working 68.3 168.8 24 Good 4 No 2 More_4_hr Yes
+67834 2011_12 female 33 " 30-39" White "Some College" NeverMarried 45000-54999 Rent Working 76.3 164.5 28.2 Vgood 8 Yes 4 2_hr No
+67834 2011_12 female 33 " 30-39" White "Some College" NeverMarried 45000-54999 Rent Working 76.3 164.5 28.2 Vgood 8 Yes 3 2_hr No
+67836 2011_12 male 24 " 20-29" White "Some College" NeverMarried 45000-54999 Own NotWorking 76.1 189.5 21.2 Good 8 Yes 2 2_hr No
+67863 2011_12 female 50 " 50-59" White "Some College" Married "more 99999" Own NotWorking 62 171.5 21.1 Vgood 9 Yes 5 2_hr No
+67879 2011_12 female 45 " 40-49" White "Some College" Married "more 99999" Rent NotWorking 68.6 167.1 24.6 Vgood 6 Yes 7 3_hr No
+67919 2011_12 female 59 " 50-59" White "Some College" Divorced 10000-14999 Rent Working 79.5 172.9 26.6 Good 7 No 7 4_hr No
+67972 2011_12 male 30 " 30-39" White "Some College" NeverMarried 75000-99999 Other Working 97.5 178.8 30.5 Fair 5 No 1 0_hrs Yes
+67974 2011_12 male 27 " 20-29" White "Some College" NeverMarried 10000-14999 Rent Working 133.9 173.6 44.4 Good 6 No 2 2_hr Yes
+67974 2011_12 male 27 " 20-29" White "Some College" NeverMarried 10000-14999 Rent Working 133.9 173.6 44.4 Good 6 No 6 2_hr Yes
+68046 2011_12 female 65 " 60-69" Other "High School" Divorced 20000-24999 Own Working 63.7 163.4 23.9 Good 6 Yes 5 2_hr No
+68058 2011_12 male 50 " 50-59" White "Some College" Married 45000-54999 Own Working 100.9 181.7 30.6 Good 5 No 3 2_hr Yes
+68058 2011_12 male 50 " 50-59" White "Some College" Married 45000-54999 Own Working 100.9 181.7 30.6 Good 5 No 3 2_hr Yes
+68058 2011_12 male 50 " 50-59" White "Some College" Married 45000-54999 Own Working 100.9 181.7 30.6 Good 5 No 2 2_hr Yes
+68062 2011_12 male 28 " 20-29" Mexican "Some College" LivePartner 65000-74999 Rent Working 67.7 169.1 23.7 Vgood 9 Yes 3 4_hr Yes
+68109 2011_12 male 45 " 40-49" Black "High School" Married 45000-54999 Own Working 78.7 170.3 27.1 Good 8 Yes 7 1_hr Yes
+68140 2011_12 male 30 " 30-39" Black "High School" NeverMarried " 0-4999" Other Looking 76.9 175.7 24.9 Vgood 8 Yes 5 More_4_hr Yes
+68177 2011_12 male 62 " 60-69" White "College Grad" Married 15000-19999 Own Working 88 181.2 26.8 Good 9 No 4 2_hr Yes
+68182 2011_12 male 47 " 40-49" White "High School" Married "more 99999" Own Working 89.4 175.3 29.1 Vgood 6 Yes 2 1_hr No
+68196 2011_12 female 45 " 40-49" White "Some College" Married "more 99999" Own Working 75.4 164.1 28 Good 8 No 1 More_4_hr No
+68196 2011_12 female 45 " 40-49" White "Some College" Married "more 99999" Own Working 75.4 164.1 28 Good 8 No 3 More_4_hr No
+68196 2011_12 female 45 " 40-49" White "Some College" Married "more 99999" Own Working 75.4 164.1 28 Good 8 No 7 More_4_hr No
+68237 2011_12 male 63 " 60-69" White "Some College" Married 45000-54999 Own Working 85 169.6 29.6 Vgood 8 No 6 1_hr No
+68244 2011_12 male 49 " 40-49" White "8th Grade" Married " 5000-9999" Rent NotWorking 83.2 174.2 27.4 Good 12 No 2 2_hr Yes
+68250 2011_12 female 50 " 50-59" White "College Grad" Married "more 99999" Own NotWorking 77.3 151.2 33.8 Good 7 Yes 4 More_4_hr No
+68250 2011_12 female 50 " 50-59" White "College Grad" Married "more 99999" Own NotWorking 77.3 151.2 33.8 Good 7 Yes 1 More_4_hr No
+68301 2011_12 male 59 " 50-59" White "High School" Divorced "more 99999" Rent Working 107.6 181.6 32.6 Fair 8 No 5 2_hr Yes
+68301 2011_12 male 59 " 50-59" White "High School" Divorced "more 99999" Rent Working 107.6 181.6 32.6 Fair 8 No 2 2_hr Yes
+68301 2011_12 male 59 " 50-59" White "High School" Divorced "more 99999" Rent Working 107.6 181.6 32.6 Fair 8 No 5 2_hr Yes
+68301 2011_12 male 59 " 50-59" White "High School" Divorced "more 99999" Rent Working 107.6 181.6 32.6 Fair 8 No 4 2_hr Yes
+68324 2011_12 female 27 " 20-29" White "College Grad" Married 75000-99999 Own Working 83.9 167.7 29.8 Vgood 8 No 2 3_hr Yes
+68344 2011_12 male 40 " 40-49" White "Some College" Divorced 75000-99999 Rent Working 99.6 182.3 30 Vgood 8 No 4 0_to_1_hr Yes
+68377 2011_12 male 74 " 70+" White "Some College" Separated 10000-14999 Rent NotWorking 70.7 173.2 23.6 Good 8 Yes 1 0_to_1_hr Yes
+68429 2011_12 male 27 " 20-29" White "College Grad" LivePartner "more 99999" Rent Looking 112.4 190.5 31 Excellent 8 Yes 4 3_hr No
+68429 2011_12 male 27 " 20-29" White "College Grad" LivePartner "more 99999" Rent Looking 112.4 190.5 31 Excellent 8 Yes 5 3_hr No
+68429 2011_12 male 27 " 20-29" White "College Grad" LivePartner "more 99999" Rent Looking 112.4 190.5 31 Excellent 8 Yes 5 3_hr No
+68436 2011_12 female 51 " 50-59" White "Some College" LivePartner "more 99999" Own Working 83.8 170.4 28.9 Good 8 No 3 2_hr No
+68436 2011_12 female 51 " 50-59" White "Some College" LivePartner "more 99999" Own Working 83.8 170.4 28.9 Good 8 No 3 2_hr No
+68497 2011_12 female 34 " 30-39" White "College Grad" Divorced 20000-24999 Own Working 62.5 153.9 26.4 Vgood 6 Yes 1 1_hr No
+68499 2011_12 male 58 " 50-59" White "Some College" Married "more 99999" Own Working 83.3 186.1 24.1 Fair 7 No 2 4_hr Yes
+68499 2011_12 male 58 " 50-59" White "Some College" Married "more 99999" Own Working 83.3 186.1 24.1 Fair 7 No 2 4_hr Yes
+68509 2011_12 female 26 " 20-29" Black "Some College" NeverMarried "more 99999" Own NotWorking 109.1 170.2 37.7 Poor 8 No 5 More_4_hr Yes
+68553 2011_12 female 61 " 60-69" White "High School" Divorced 25000-34999 Rent NotWorking 88.1 158.2 35.2 Good 8 No 4 More_4_hr Yes
+68561 2011_12 female 65 " 60-69" White "College Grad" Married 25000-34999 Own NotWorking 104.8 160.7 40.6 Excellent 7 Yes 5 2_hr No
+68572 2011_12 male 42 " 40-49" White "College Grad" Married 55000-64999 Rent Working 84.9 178.4 26.7 Good 6 Yes 7 1_hr Yes
+68572 2011_12 male 42 " 40-49" White "College Grad" Married 55000-64999 Rent Working 84.9 178.4 26.7 Good 6 Yes 2 1_hr Yes
+68606 2011_12 female 62 " 60-69" Hispanic "8th Grade" Widowed 25000-34999 Rent NotWorking 72.5 154.3 30.5 Good 9 No 2 2_hr No
+68619 2011_12 male 30 " 30-39" White "Some College" Married 25000-34999 Own Working 85.1 184.5 25 Vgood 5 Yes 3 2_hr No
+68622 2011_12 female 70 " 70+" White "Some College" Married 35000-44999 Rent NotWorking 63.4 160.7 24.6 Good 7 No 3 3_hr No
+68630 2011_12 male 32 " 30-39" White "9 - 11th Grade" Married 65000-74999 Rent Working 78.3 166.2 28.3 Good 8 Yes 1 More_4_hr Yes
+68679 2011_12 male 43 " 40-49" Other "Some College" Married 20000-24999 Rent Working 105.1 177.2 33.5 Vgood 4 Yes 5 4_hr Yes
+68679 2011_12 male 43 " 40-49" Other "Some College" Married 20000-24999 Rent Working 105.1 177.2 33.5 Vgood 4 Yes 5 4_hr Yes
+68679 2011_12 male 43 " 40-49" Other "Some College" Married 20000-24999 Rent Working 105.1 177.2 33.5 Vgood 4 Yes 7 4_hr Yes
+68679 2011_12 male 43 " 40-49" Other "Some College" Married 20000-24999 Rent Working 105.1 177.2 33.5 Vgood 4 Yes 3 4_hr Yes
+68707 2011_12 male 54 " 50-59" White "College Grad" Married "more 99999" Own Working 117.3 171.9 39.7 Fair 8 No 3 More_4_hr No
+68707 2011_12 male 54 " 50-59" White "College Grad" Married "more 99999" Own Working 117.3 171.9 39.7 Fair 8 No 6 More_4_hr No
+68752 2011_12 male 45 " 40-49" Mexican "9 - 11th Grade" Married 45000-54999 Rent Working 83.8 166.4 30.3 Good 7 No 5 3_hr Yes
+68754 2011_12 male 57 " 50-59" White "Some College" LivePartner 75000-99999 Own NotWorking 86.1 192.8 23.2 Vgood 6 No 3 More_4_hr Yes
+68754 2011_12 male 57 " 50-59" White "Some College" LivePartner 75000-99999 Own NotWorking 86.1 192.8 23.2 Vgood 6 No 3 More_4_hr Yes
+68787 2011_12 male 65 " 60-69" White "College Grad" Married 25000-34999 Own NotWorking 72 161.8 27.5 Good 7 Yes 1 2_hr No
+68787 2011_12 male 65 " 60-69" White "College Grad" Married 25000-34999 Own NotWorking 72 161.8 27.5 Good 7 Yes 7 2_hr No
+68794 2011_12 male 74 " 70+" White "Some College" Married 75000-99999 Own NotWorking 113.3 169.5 39.4 Vgood 8 No 3 More_4_hr No
+68875 2011_12 male 52 " 50-59" White "High School" Married 35000-44999 Own NotWorking 89 174.3 29.3 Vgood 4 Yes 2 3_hr No
+68875 2011_12 male 52 " 50-59" White "High School" Married 35000-44999 Own NotWorking 89 174.3 29.3 Vgood 4 Yes 4 3_hr No
+68899 2011_12 male 48 " 40-49" Black "High School" NeverMarried 75000-99999 Own NotWorking 93.4 180.8 28.6 Good 6 Yes 7 2_hr Yes
+68961 2011_12 female 64 " 60-69" White "College Grad" Married "more 99999" Own Working 61.7 159.6 24.2 Vgood 7 Yes 6 2_hr No
+68961 2011_12 female 64 " 60-69" White "College Grad" Married "more 99999" Own Working 61.7 159.6 24.2 Vgood 7 Yes 2 2_hr No
+68966 2011_12 female 63 " 60-69" Black "Some College" NeverMarried " 0-4999" Other NotWorking 80.5 165.2 29.5 Fair 6 No 7 2_hr No
+69005 2011_12 female 77 " 70+" White "Some College" Married 75000-99999 Own NotWorking 85.8 166 31.1 Vgood 7 No 2 More_4_hr No
+69005 2011_12 female 77 " 70+" White "Some College" Married 75000-99999 Own NotWorking 85.8 166 31.1 Vgood 7 No 3 More_4_hr No
+69018 2011_12 male 39 " 30-39" Black "9 - 11th Grade" LivePartner " 5000-9999" Rent NotWorking 55.3 168.7 19.4 Good 3 No 4 4_hr No
+69035 2011_12 male 68 " 60-69" White "Some College" Married 75000-99999 Rent Working 92.6 181.2 28.2 Good 6 No 5 More_4_hr Yes
+69101 2011_12 male 58 " 50-59" Hispanic "8th Grade" Separated 75000-99999 Rent Working 73 164.4 27 Fair 7 No 7 1_hr Yes
+69101 2011_12 male 58 " 50-59" Hispanic "8th Grade" Separated 75000-99999 Rent Working 73 164.4 27 Fair 7 No 5 1_hr Yes
+69181 2011_12 female 37 " 30-39" White "8th Grade" NeverMarried 35000-44999 Own Working 70.7 168 25 Vgood 6 Yes 6 3_hr No
+69279 2011_12 female 58 " 50-59" White "College Grad" Married "more 99999" Own Working 80.1 170.1 27.7 Vgood 7 Yes 3 0_to_1_hr No
+69279 2011_12 female 58 " 50-59" White "College Grad" Married "more 99999" Own Working 80.1 170.1 27.7 Vgood 7 Yes 7 0_to_1_hr No
+69284 2011_12 male 53 " 50-59" Hispanic "Some College" Divorced 10000-14999 Rent NotWorking 84.9 172.9 28.4 Fair 8 Yes 1 2_hr No
+69307 2011_12 male 58 " 50-59" Black "9 - 11th Grade" Divorced 20000-24999 Rent NotWorking 53.3 172.4 17.9 Excellent 5 No 7 More_4_hr No
+69324 2011_12 male 42 " 40-49" White "Some College" Married "more 99999" Own Working 86.7 184.3 25.5 Fair 6 Yes 5 2_hr Yes
+69325 2011_12 female 36 " 30-39" Other "College Grad" LivePartner "more 99999" Rent Working 74.5 153.2 31.7 Good 7 No 5 2_hr Yes
+69349 2011_12 male 74 " 70+" White "College Grad" Married 75000-99999 Own NotWorking 79.1 177.1 25.2 Excellent 8 No 5 3_hr No
+69349 2011_12 male 74 " 70+" White "College Grad" Married 75000-99999 Own NotWorking 79.1 177.1 25.2 Excellent 8 No 7 3_hr No
+69375 2011_12 male 40 " 40-49" White "Some College" NeverMarried "more 99999" Own Working 71.8 173.3 23.9 Vgood 3 Yes 2 More_4_hr Yes
+69386 2011_12 male 52 " 50-59" Other "High School" NeverMarried 10000-14999 Own NotWorking 102.1 180.8 31.2 Good 7 No 2 2_hr No
+69390 2011_12 male 62 " 60-69" White "9 - 11th Grade" Married 55000-64999 Own NotWorking 106.4 186.6 30.6 Good 7 No 6 More_4_hr Yes
+69403 2011_12 male 61 " 60-69" White "College Grad" Divorced 25000-34999 Rent Working 116.2 171.1 39.7 Vgood 5 No 5 4_hr No
+69421 2011_12 female 68 " 60-69" White "Some College" Married 35000-44999 Own Looking 65.4 158.8 25.9 Good 9 Yes 5 4_hr No
+69446 2011_12 male 25 " 20-29" Mexican "8th Grade" NeverMarried 20000-24999 Own Working 95.6 177.1 30.5 Vgood 7 Yes 5 2_hr No
+69459 2011_12 female 62 " 60-69" Mexican "High School" Widowed 65000-74999 Own NotWorking 57.2 151.1 25.1 Vgood 7 Yes 7 2_hr No
+69505 2011_12 male 60 " 60-69" White "8th Grade" LivePartner 20000-24999 Own NotWorking 110.1 179.8 34.1 Poor 5 No 2 2_hr Yes
+69508 2011_12 male 37 " 30-39" Mexican "8th Grade" Married 35000-44999 Rent Working 87.3 171.3 29.8 Good 7 Yes 3 1_hr No
+69521 2011_12 male 74 " 70+" White "Some College" Married 25000-34999 Own NotWorking 78.7 173.9 26 Good 8 Yes 2 4_hr No
+69523 2011_12 male 56 " 50-59" White "High School" Divorced 45000-54999 Own Working 102.9 173.7 34.1 Good 7 Yes 2 4_hr No
+69523 2011_12 male 56 " 50-59" White "High School" Divorced 45000-54999 Own Working 102.9 173.7 34.1 Good 7 Yes 3 4_hr No
+69523 2011_12 male 56 " 50-59" White "High School" Divorced 45000-54999 Own Working 102.9 173.7 34.1 Good 7 Yes 7 4_hr No
+69574 2011_12 female 48 " 40-49" White "College Grad" Married 75000-99999 Own Working 65.9 168.5 23.2 Vgood 8 Yes 1 2_hr No
+69574 2011_12 female 48 " 40-49" White "College Grad" Married 75000-99999 Own Working 65.9 168.5 23.2 Vgood 8 Yes 5 2_hr No
+69647 2011_12 male 36 " 30-39" White "9 - 11th Grade" LivePartner 75000-99999 Rent Working 86.1 171 29.4 Vgood 5 Yes 2 3_hr Yes
+69654 2011_12 male 20 " 20-29" Black "Some College" NeverMarried 75000-99999 Rent Looking 116.7 184.2 34.4 Vgood 7 Yes 3 4_hr Yes
+69693 2011_12 female 37 " 30-39" Mexican "Some College" Divorced 25000-34999 Own Working 100.1 166.3 36.2 Fair 5 No 2 3_hr Yes
+69696 2011_12 female 56 " 50-59" White "9 - 11th Grade" Divorced 10000-14999 Rent NotWorking 84.3 166 30.6 Fair 6 No 7 0_hrs No
+69704 2011_12 male 30 " 30-39" White "High School" Married "more 99999" Rent NotWorking 66.9 169 23.4 Good 8 No 7 More_4_hr Yes
+69704 2011_12 male 30 " 30-39" White "High School" Married "more 99999" Rent NotWorking 66.9 169 23.4 Good 8 No 3 More_4_hr Yes
+69724 2011_12 male 58 " 50-59" White "9 - 11th Grade" Married 20000-24999 Rent NotWorking 77.6 176.6 24.9 Good 7 No 3 More_4_hr Yes
+69748 2011_12 female 50 " 50-59" White "High School" Married 35000-44999 Own Working 78.8 161.1 30.4 Vgood 7 Yes 5 1_hr No
+69752 2011_12 female 79 " 70+" White "College Grad" Widowed 15000-19999 Own NotWorking 82.4 165.6 30 Vgood 8 Yes 2 1_hr No
+69811 2011_12 male 59 " 50-59" White "Some College" Separated 25000-34999 Rent Working 69 174.6 22.6 Good 7 No 1 0_hrs Yes
+69849 2011_12 male 70 " 70+" Black "9 - 11th Grade" Married 35000-44999 Own NotWorking 104.5 173.1 34.9 Fair 8 No 2 3_hr Yes
+69873 2011_12 male 22 " 20-29" Black "High School" LivePartner " 5000-9999" Rent NotWorking 62.1 186.9 17.8 Good 8 No 5 0_hrs Yes
+69888 2011_12 male 36 " 30-39" White "Some College" NeverMarried 10000-14999 Own Looking 80.4 176.1 25.9 Fair 7 Yes 3 2_hr No
+69896 2011_12 male 49 " 40-49" White "High School" NeverMarried "more 99999" Rent Working 74.6 177.1 23.8 Good 4 No 1 1_hr Yes
+69934 2011_12 female 56 " 50-59" White "College Grad" Married "more 99999" Own NotWorking 88.5 182 26.7 Good 8 Yes 3 2_hr No
+69964 2011_12 female 75 " 70+" Other "High School" Married 25000-34999 Own NotWorking 94.8 146.8 44 Good 11 No 3 2_hr No
+69994 2011_12 female 21 " 20-29" Other "High School" NeverMarried 65000-74999 Own NotWorking 41.9 151.6 18.2 Good 6 No 7 0_to_1_hr Yes
+70013 2011_12 male 70 " 70+" Black "College Grad" Married "more 99999" Own Working 83.2 171.1 28.4 Vgood 5 Yes 3 2_hr No
+70045 2011_12 female 35 " 30-39" White "College Grad" Married "more 99999" Own NotWorking 59.7 170.3 20.6 Vgood 8 Yes 4 0_to_1_hr No
+70045 2011_12 female 35 " 30-39" White "College Grad" Married "more 99999" Own NotWorking 59.7 170.3 20.6 Vgood 8 Yes 4 0_to_1_hr No
+70064 2011_12 female 38 " 30-39" White "High School" Divorced 35000-44999 Rent Working 74.3 153 31.7 Fair 7 No 3 2_hr Yes
+70064 2011_12 female 38 " 30-39" White "High School" Divorced 35000-44999 Rent Working 74.3 153 31.7 Fair 7 No 2 2_hr Yes
+70092 2011_12 male 24 " 20-29" Other "Some College" NeverMarried 65000-74999 Rent Looking 85.5 184.1 25.2 Good 7 Yes 5 4_hr No
+70092 2011_12 male 24 " 20-29" Other "Some College" NeverMarried 65000-74999 Rent Looking 85.5 184.1 25.2 Good 7 Yes 6 4_hr No
+70092 2011_12 male 24 " 20-29" Other "Some College" NeverMarried 65000-74999 Rent Looking 85.5 184.1 25.2 Good 7 Yes 2 4_hr No
+70122 2011_12 female 37 " 30-39" White "Some College" Married 65000-74999 Own Working 125.7 169.8 43.6 Fair 6 No 3 3_hr Yes
+70127 2011_12 female 26 " 20-29" White "Some College" NeverMarried 15000-19999 Rent NotWorking 82.8 167.4 29.5 Good 8 Yes 1 0_to_1_hr No
+70127 2011_12 female 26 " 20-29" White "Some College" NeverMarried 15000-19999 Rent NotWorking 82.8 167.4 29.5 Good 8 Yes 3 0_to_1_hr No
+70134 2011_12 female 47 " 40-49" White "Some College" Married 65000-74999 Own Working 93 173.4 30.9 Vgood 7 Yes 7 3_hr No
+70142 2011_12 female 69 " 60-69" White "Some College" Widowed 55000-64999 Own NotWorking 62.8 163.4 23.5 Good 6 Yes 4 More_4_hr No
+70142 2011_12 female 69 " 60-69" White "Some College" Widowed 55000-64999 Own NotWorking 62.8 163.4 23.5 Good 6 Yes 4 More_4_hr No
+70142 2011_12 female 69 " 60-69" White "Some College" Widowed 55000-64999 Own NotWorking 62.8 163.4 23.5 Good 6 Yes 2 More_4_hr No
+70142 2011_12 female 69 " 60-69" White "Some College" Widowed 55000-64999 Own NotWorking 62.8 163.4 23.5 Good 6 Yes 5 More_4_hr No
+70171 2011_12 female 30 " 30-39" White "Some College" LivePartner 25000-34999 Rent NotWorking 58.4 170.4 20.1 Good 7 Yes 2 More_4_hr Yes
+70225 2011_12 male 25 " 20-29" White "College Grad" Married 65000-74999 Other Working 113.1 182.6 33.9 Good 6 Yes 5 More_4_hr No
+70225 2011_12 male 25 " 20-29" White "College Grad" Married 65000-74999 Other Working 113.1 182.6 33.9 Good 6 Yes 3 More_4_hr No
+70276 2011_12 female 51 " 50-59" White "College Grad" Married "more 99999" Own Working 53.1 163.9 19.8 Vgood 7 Yes 4 2_hr Yes
+70276 2011_12 female 51 " 50-59" White "College Grad" Married "more 99999" Own Working 53.1 163.9 19.8 Vgood 7 Yes 2 2_hr Yes
+70297 2011_12 male 73 " 70+" White "8th Grade" Married 35000-44999 Own Working 74.4 173.6 24.7 Good 8 No 3 4_hr No
+70352 2011_12 female 55 " 50-59" White "Some College" Separated " 5000-9999" Own NotWorking 70.1 163.6 26.2 Poor 9 No 3 3_hr Yes
+70356 2011_12 female 25 " 20-29" White "8th Grade" NeverMarried 10000-14999 Other NotWorking 102 167.6 36.3 Good 10 No 2 More_4_hr Yes
+70409 2011_12 male 44 " 40-49" White "High School" Divorced 25000-34999 Own Looking 93.3 178.7 29.2 Good 8 Yes 2 More_4_hr Yes
+70421 2011_12 female 51 " 50-59" Hispanic "9 - 11th Grade" Divorced 45000-54999 Rent NotWorking 99.5 164.5 36.8 Fair 6 No 2 1_hr Yes
+70425 2011_12 male 77 " 70+" White "9 - 11th Grade" Married 45000-54999 Own NotWorking 77.5 180 23.9 Fair 6 No 5 2_hr No
+70429 2011_12 female 44 " 40-49" White "Some College" Divorced 45000-54999 Own Working 91.9 169.6 31.9 Vgood 8 No 4 4_hr No
+70430 2011_12 female 37 " 30-39" White "College Grad" Married 75000-99999 Own Working 58.3 171.1 19.9 Excellent 8 Yes 2 3_hr No
+70430 2011_12 female 37 " 30-39" White "College Grad" Married 75000-99999 Own Working 58.3 171.1 19.9 Excellent 8 Yes 7 3_hr No
+70430 2011_12 female 37 " 30-39" White "College Grad" Married 75000-99999 Own Working 58.3 171.1 19.9 Excellent 8 Yes 2 3_hr No
+70501 2011_12 female 49 " 40-49" White "College Grad" Married "more 99999" Own Working 87.9 165.8 32 Fair 7 No 7 More_4_hr Yes
+70535 2011_12 male 40 " 40-49" White "College Grad" Married 20000-24999 Rent Working 82 176.6 26.3 Vgood 6 No 4 2_hr Yes
+70537 2011_12 male 26 " 20-29" Other "Some College" NeverMarried 25000-34999 Rent Working 86.9 182.5 26.1 Good 8 Yes 5 2_hr Yes
+70551 2011_12 male 37 " 30-39" White "Some College" Married 10000-14999 Other Working 100.8 188.6 28.3 Good 8 No 7 More_4_hr Yes
+70603 2011_12 male 55 " 50-59" White "College Grad" LivePartner "more 99999" Rent Working 90.3 172.2 30.5 Vgood 6 Yes 5 0_to_1_hr No
+70603 2011_12 male 55 " 50-59" White "College Grad" LivePartner "more 99999" Rent Working 90.3 172.2 30.5 Vgood 6 Yes 5 0_to_1_hr No
+70603 2011_12 male 55 " 50-59" White "College Grad" LivePartner "more 99999" Rent Working 90.3 172.2 30.5 Vgood 6 Yes 5 0_to_1_hr No
+70623 2011_12 male 54 " 50-59" Other "High School" Married 20000-24999 Own Working 110 183.7 32.6 Good 7 No 3 2_hr Yes
+70624 2011_12 male 42 " 40-49" Mexican "High School" Married 65000-74999 Own Working 90.5 168.3 32 Good 6 Yes 3 4_hr Yes
+70638 2011_12 male 53 " 50-59" White "Some College" Married 20000-24999 Own Working 66 177.7 20.9 Good 9 Yes 3 0_to_1_hr Yes
+70654 2011_12 female 28 " 20-29" White "9 - 11th Grade" LivePartner 25000-34999 Rent Working 103.8 176.2 33.4 Good 5 Yes 2 0_to_1_hr Yes
+70654 2011_12 female 28 " 20-29" White "9 - 11th Grade" LivePartner 25000-34999 Rent Working 103.8 176.2 33.4 Good 5 Yes 3 0_to_1_hr Yes
+70664 2011_12 female 70 " 70+" White "High School" Married 15000-19999 Own NotWorking 90.5 165.4 33.1 Fair 3 No 7 0_to_1_hr No
+70703 2011_12 female 57 " 50-59" White "Some College" Married 45000-54999 Own Working 58.7 159.7 23 Good 8 No 5 0_to_1_hr Yes
+70703 2011_12 female 57 " 50-59" White "Some College" Married 45000-54999 Own Working 58.7 159.7 23 Good 8 No 3 0_to_1_hr Yes
+70708 2011_12 male 57 " 50-59" White "9 - 11th Grade" Married 35000-44999 Own Working 86.6 180.8 26.5 Good 6 No 3 2_hr No
+70755 2011_12 male 56 " 50-59" White "Some College" Married 65000-74999 Own Working 79.4 182.9 23.7 Good 6 No 3 1_hr Yes
+70755 2011_12 male 56 " 50-59" White "Some College" Married 65000-74999 Own Working 79.4 182.9 23.7 Good 6 No 3 1_hr Yes
+70765 2011_12 female 67 " 60-69" White "8th Grade" Widowed 25000-34999 Own NotWorking 77.4 163.6 28.9 Vgood 10 Yes 4 More_4_hr No
+70782 2011_12 male 64 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 79.4 175.7 25.7 Vgood 6 No 1 4_hr Yes
+70782 2011_12 male 64 " 60-69" White "College Grad" Married "more 99999" Own NotWorking 79.4 175.7 25.7 Vgood 6 No 6 4_hr Yes
+70806 2011_12 female 42 " 40-49" White "Some College" Divorced 55000-64999 Rent Working 76.1 167.8 27 Good 8 No 1 4_hr Yes
+70821 2011_12 male 63 " 60-69" White "Some College" Married 75000-99999 Own Working 109.9 190.5 30.3 Vgood 7 Yes 1 2_hr No
+70821 2011_12 male 63 " 60-69" White "Some College" Married 75000-99999 Own Working 109.9 190.5 30.3 Vgood 7 Yes 1 2_hr No
+70832 2011_12 female 31 " 30-39" White "Some College" Married 20000-24999 Own NotWorking 77.2 182.5 23.2 Excellent 9 Yes 1 1_hr No
+70832 2011_12 female 31 " 30-39" White "Some College" Married 20000-24999 Own NotWorking 77.2 182.5 23.2 Excellent 9 Yes 3 1_hr No
+70868 2011_12 male 46 " 40-49" White "9 - 11th Grade" Married 15000-19999 Rent NotWorking 64.5 174.7 21.1 Fair 4 Yes 5 0_hrs Yes
+70868 2011_12 male 46 " 40-49" White "9 - 11th Grade" Married 15000-19999 Rent NotWorking 64.5 174.7 21.1 Fair 4 Yes 3 0_hrs Yes
+70868 2011_12 male 46 " 40-49" White "9 - 11th Grade" Married 15000-19999 Rent NotWorking 64.5 174.7 21.1 Fair 4 Yes 7 0_hrs Yes
+70911 2011_12 male 59 " 50-59" White "College Grad" Married "more 99999" Own Working 84 185.3 24.5 Good 6 No 3 More_4_hr No
+70939 2011_12 female 28 " 20-29" Hispanic "9 - 11th Grade" LivePartner 75000-99999 Rent Working 77.5 160.8 30 Vgood 6 Yes 2 0_to_1_hr No
+70949 2011_12 female 68 " 60-69" White "Some College" Married "more 99999" Own NotWorking 61.3 160.6 23.8 Vgood 8 Yes 1 3_hr No
+70949 2011_12 female 68 " 60-69" White "Some College" Married "more 99999" Own NotWorking 61.3 160.6 23.8 Vgood 8 Yes 4 3_hr No
+70949 2011_12 female 68 " 60-69" White "Some College" Married "more 99999" Own NotWorking 61.3 160.6 23.8 Vgood 8 Yes 1 3_hr No
+71040 2011_12 male 63 " 60-69" White "9 - 11th Grade" Married 15000-19999 Own NotWorking 85.1 168.8 29.9 Good 8 Yes 2 More_4_hr No
+71046 2011_12 male 52 " 50-59" White "Some College" Married 75000-99999 Own Working 113.7 183.5 33.8 Vgood 7 Yes 3 0_to_1_hr No
+71046 2011_12 male 52 " 50-59" White "Some College" Married 75000-99999 Own Working 113.7 183.5 33.8 Vgood 7 Yes 5 0_to_1_hr No
+71054 2011_12 female 51 " 50-59" White "High School" LivePartner 65000-74999 Rent Working 61.5 156.7 25 Good 6 No 2 2_hr No
+71054 2011_12 female 51 " 50-59" White "High School" LivePartner 65000-74999 Rent Working 61.5 156.7 25 Good 6 No 5 2_hr No
+71054 2011_12 female 51 " 50-59" White "High School" LivePartner 65000-74999 Rent Working 61.5 156.7 25 Good 6 No 5 2_hr No
+71060 2011_12 female 31 " 30-39" White "Some College" Widowed " 0-4999" Rent Working 92.6 165.5 33.8 Good 6 Yes 5 2_hr No
+71069 2011_12 female 62 " 60-69" White "High School" Married 25000-34999 Own NotWorking 71.8 154.9 29.9 Good 7 Yes 2 3_hr No
+71072 2011_12 female 50 " 50-59" Hispanic "High School" Separated 25000-34999 Own Working 89.9 155.8 37 Fair 5 Yes 7 More_4_hr No
+71079 2011_12 male 34 " 30-39" White "Some College" Married 75000-99999 Own Working 68 174.8 22.3 Vgood 7 No 3 2_hr No
+71079 2011_12 male 34 " 30-39" White "Some College" Married 75000-99999 Own Working 68 174.8 22.3 Vgood 7 No 3 2_hr No
+71079 2011_12 male 34 " 30-39" White "Some College" Married 75000-99999 Own Working 68 174.8 22.3 Vgood 7 No 5 2_hr No
+71093 2011_12 male 50 " 50-59" White "High School" LivePartner "more 99999" Own Working 78.5 169.2 27.4 Vgood 6 Yes 3 4_hr Yes
+71093 2011_12 male 50 " 50-59" White "High School" LivePartner "more 99999" Own Working 78.5 169.2 27.4 Vgood 6 Yes 3 4_hr Yes
+71093 2011_12 male 50 " 50-59" White "High School" LivePartner "more 99999" Own Working 78.5 169.2 27.4 Vgood 6 Yes 7 4_hr Yes
+71094 2011_12 female 51 " 50-59" White "Some College" Divorced 55000-64999 Own Working 67.1 165.9 24.4 Good 7 Yes 5 3_hr Yes
+71119 2011_12 male 36 " 30-39" White "Some College" Married "more 99999" Own Working 92.3 191.3 25.2 Vgood 6 Yes 5 3_hr No
+71127 2011_12 female 70 " 70+" White "College Grad" Married 75000-99999 Own NotWorking 75.3 165 27.7 Good 9 No 2 0_hrs Yes
+71146 2011_12 male 34 " 30-39" White "Some College" NeverMarried 45000-54999 Rent Working 75.2 178.4 23.6 Excellent 5 Yes 2 2_hr No
+71183 2011_12 male 38 " 30-39" White "Some College" Married 25000-34999 Rent Working 71.4 177.8 22.6 Vgood 7 Yes 3 1_hr Yes
+71183 2011_12 male 38 " 30-39" White "Some College" Married 25000-34999 Rent Working 71.4 177.8 22.6 Vgood 7 Yes 3 1_hr Yes
+71234 2011_12 female 47 " 40-49" White "College Grad" NeverMarried 35000-44999 Own Looking 94.7 175.3 30.8 Good 5 No 3 More_4_hr Yes
+71234 2011_12 female 47 " 40-49" White "College Grad" NeverMarried 35000-44999 Own Looking 94.7 175.3 30.8 Good 5 No 3 More_4_hr Yes
+71234 2011_12 female 47 " 40-49" White "College Grad" NeverMarried 35000-44999 Own Looking 94.7 175.3 30.8 Good 5 No 1 More_4_hr Yes
+71239 2011_12 male 48 " 40-49" White "8th Grade" Widowed 20000-24999 Own Working 74.8 183.2 22.3 Fair 5 No 4 4_hr Yes
+71288 2011_12 male 68 " 60-69" White "College Grad" Married "more 99999" Own Working 69.6 172.3 23.4 Excellent 7 Yes 1 2_hr No
+71296 2011_12 female 32 " 30-39" White "High School" LivePartner 15000-19999 Own Working 81.9 155.6 33.8 Good 7 No 2 More_4_hr No
+71315 2011_12 male 44 " 40-49" White "8th Grade" Married 25000-34999 Rent Working 162.2 200.4 40.4 Good 5 No 7 1_hr No
+71316 2011_12 male 57 " 50-59" Other "9 - 11th Grade" Married 65000-74999 Own Working 70.8 169.3 24.7 Vgood 7 No 1 2_hr Yes
+71316 2011_12 male 57 " 50-59" Other "9 - 11th Grade" Married 65000-74999 Own Working 70.8 169.3 24.7 Vgood 7 No 2 2_hr Yes
+71340 2011_12 female 36 " 30-39" White "9 - 11th Grade" Divorced 20000-24999 Own NotWorking 96.6 153.8 40.8 Fair 6 No 4 More_4_hr Yes
+71354 2011_12 male 50 " 50-59" Mexican "College Grad" NeverMarried 35000-44999 Rent Working 91.2 175.5 29.6 Excellent 5 No 3 2_hr No
+71356 2011_12 male 63 " 60-69" White "Some College" Married 55000-64999 Own Working 70 175.9 22.6 Good 8 Yes 5 4_hr Yes
+71356 2011_12 male 63 " 60-69" White "Some College" Married 55000-64999 Own Working 70 175.9 22.6 Good 8 Yes 7 4_hr Yes
+71399 2011_12 male 55 " 50-59" White "Some College" Married 55000-64999 Own NotWorking 73.3 184.3 21.6 Fair 8 Yes 5 4_hr Yes
+71403 2011_12 female 30 " 30-39" White "Some College" Married 20000-24999 Own NotWorking 117.5 160.8 45.4 Vgood 8 Yes 2 2_hr Yes
+71478 2011_12 male 43 " 40-49" Mexican "8th Grade" LivePartner 35000-44999 Own Working 94.4 179.5 29.3 Good 7 No 3 More_4_hr Yes
+71488 2011_12 female 41 " 40-49" Black "High School" Married 20000-24999 Rent Working 110.4 165.8 40.2 Good 8 Yes 5 3_hr No
+71552 2011_12 male 65 " 60-69" Hispanic "9 - 11th Grade" LivePartner 15000-19999 Rent NotWorking 63.3 166.6 22.8 Fair 7 No 7 3_hr No
+71567 2011_12 male 35 " 30-39" White "High School" LivePartner "more 99999" Own Working 81.2 173.6 26.9 Good 6 Yes 3 2_hr Yes
+71569 2011_12 male 56 " 50-59" Mexican "8th Grade" Married 25000-34999 Other Working 83.2 169.4 29 Fair 8 Yes 5 4_hr No
+71578 2011_12 male 41 " 40-49" White "High School" Married 45000-54999 Own Working 91.3 172.7 30.6 Good 6 Yes 3 3_hr No
+71578 2011_12 male 41 " 40-49" White "High School" Married 45000-54999 Own Working 91.3 172.7 30.6 Good 6 Yes 4 3_hr No
+71594 2011_12 male 27 " 20-29" White "College Grad" NeverMarried "more 99999" Rent Working 74.3 178.7 23.3 Vgood 7 Yes 1 0_to_1_hr No
+71613 2011_12 male 75 " 70+" Black "8th Grade" Widowed 55000-64999 Own NotWorking 70.1 171.1 23.9 Good 8 Yes 7 1_hr Yes
+71656 2011_12 male 58 " 50-59" White "College Grad" Married "more 99999" Rent Working 73.8 176.2 23.8 Fair 7 Yes 2 0_to_1_hr No
+71656 2011_12 male 58 " 50-59" White "College Grad" Married "more 99999" Rent Working 73.8 176.2 23.8 Fair 7 Yes 1 0_to_1_hr No
+71671 2011_12 male 65 " 60-69" White "Some College" Married 35000-44999 Own Working 66.7 171.7 22.6 Vgood 7 No 1 4_hr No
+71697 2011_12 male 74 " 70+" White "8th Grade" Married 15000-19999 Own NotWorking 86.8 174.3 28.6 Fair 8 No 3 2_hr No
+71704 2011_12 male 77 " 70+" White "9 - 11th Grade" Married 15000-19999 Own NotWorking 93.2 182 28.1 Good 6 No 1 1_hr No
+71763 2011_12 male 40 " 40-49" White "Some College" Married 75000-99999 Rent Working 77.9 192.9 20.9 Vgood 7 No 3 2_hr Yes
+71775 2011_12 male 62 " 60-69" White "9 - 11th Grade" Married 25000-34999 Own NotWorking 129.7 178.5 40.7 Good 6 No 2 More_4_hr No
+71796 2011_12 female 45 " 40-49" White "Some College" Widowed 65000-74999 Rent Working 65.4 161.5 25.1 Good 7 Yes 3 2_hr No
+71799 2011_12 male 59 " 50-59" White "College Grad" NeverMarried 75000-99999 Rent Working 75.9 183.7 22.5 Good 6 Yes 3 1_hr No
+71799 2011_12 male 59 " 50-59" White "College Grad" NeverMarried 75000-99999 Rent Working 75.9 183.7 22.5 Good 6 Yes 5 1_hr No
+71825 2011_12 female 53 " 50-59" White "9 - 11th Grade" Married 65000-74999 Own NotWorking 56.3 157.5 22.7 Poor 6 No 2 More_4_hr Yes
+71826 2011_12 female 77 " 70+" White "9 - 11th Grade" Widowed " 0-4999" Own NotWorking 73.8 150.9 32.4 Fair 10 No 5 More_4_hr No
+71847 2011_12 male 37 " 30-39" White "College Grad" Married "more 99999" Own Working 79.3 174.5 26 Good 8 Yes 6 0_to_1_hr No
+71855 2011_12 female 62 " 60-69" White "High School" Married 10000-14999 Own NotWorking 99 166.1 35.9 Good 10 No 5 2_hr No
+71855 2011_12 female 62 " 60-69" White "High School" Married 10000-14999 Own NotWorking 99 166.1 35.9 Good 10 No 5 2_hr No
+71868 2011_12 male 43 " 40-49" Mexican "High School" Married 55000-64999 Own Working 85.5 173.6 28.4 Good 6 No 5 1_hr No
+71868 2011_12 male 43 " 40-49" Mexican "High School" Married 55000-64999 Own Working 85.5 173.6 28.4 Good 6 No 4 1_hr No
+71869 2011_12 male 69 " 60-69" White "College Grad" Married 45000-54999 Own NotWorking 113.9 173.6 37.8 Fair 8 No 3 1_hr Yes
